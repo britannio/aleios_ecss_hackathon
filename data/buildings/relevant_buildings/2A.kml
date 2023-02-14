@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Building 2 Annexe</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39752,50.93645,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Building 2 Annexe (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39774390712001,50.9363849958348,0.000000
+-1.39772486283598,50.9364121687659,0.000000
+-1.39770411175292,50.9364414928696,0.000000
+-1.3976765334737,50.9364819125497,0.000000
+-1.39760763269141,50.9365784894022,0.000000
+-1.39744575627721,50.9365328050661,0.000000
+-1.39728971891236,50.9364887623799,0.000000
+-1.39738790477291,50.9363506899867,0.000000
+-1.39742204075371,50.9363026844009,0.000000
+-1.39742662216166,50.9362961742056,0.000000
+-1.3974580631966,50.9363052884788,0.000000
+-1.39766746048933,50.9363633140889,0.000000
+-1.39774390712001,50.9363849958348,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Interchange entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39741,50.93632,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre H</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.397575909,50.93648782,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre H (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3977041118,50.9364414929,0.000000
+-1.3976076327,50.9365784894,0.000000
+-1.3974457563,50.9365328051,0.000000
+-1.3975471761,50.9363971104,0.000000
+-1.3977041118,50.9364414929,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre J</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.397417741,50.93644201,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre J (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3975471761,50.9363971104,0.000000
+-1.3974457563,50.9365328051,0.000000
+-1.3972897189,50.9364887624,0.000000
+-1.3973879048,50.93635069,0.000000
+-1.3975471761,50.9363971104,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Main entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39772,50.93642,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

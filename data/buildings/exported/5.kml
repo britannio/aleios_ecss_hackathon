@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="03BBF26B0B277AD7D710">
+			<name>Eustice (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39499901493785,50.93557761287551,0
+							-1.39492409544316,50.9355557609192,0
+							-1.39480605681482,50.9355215110707,0
+							-1.39473428142362,50.93550067809259,0
+							-1.39469673184475,50.93548980870901,0
+							-1.39466609929356,50.93548086411019,0
+							-1.39464714484106,50.9354753728051,0 
+							-1.39458956283135,50.93545867244,0
+							-1.39455812179641,50.9355015838745,0 
+							-1.3945460843716,50.9355180011674,0
+							-1.39454078431142,50.9355253040304,0
+							-1.39453377745221,50.9355348147339,0 
+							-1.39445454604415,50.935511773919,0
+							-1.39444475440755,50.93552507758499,0
+							-1.39452937570731,50.93554970350981,0
+							-1.39451626030417,50.93556776251311,0
+							-1.39457132703108,50.9355837835038,0
+							-1.39461193088193,50.93559561525669,0
+							-1.39464013798185,50.9356037672761,0
+							-1.39466969255469,50.9356123721839,0
+							-1.39468011301199,50.9355981061517,0 
+							-1.39500278786205,50.935691797672,0
+							-1.39502425759734,50.93566247309559,0
+							-1.39507105982364,50.93559850243039,0
+							-1.39499901493785,50.93557761287551,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

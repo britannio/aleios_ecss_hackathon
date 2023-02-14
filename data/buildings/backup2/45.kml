@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Bookable Workstation</name><description></description><styleUrl>#style9</styleUrl><Point><coordinates>-1.39382696,50.93788142,0.000000</coordinates></Point></Placemark><Style id='style9'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Bookable Workstation</name><description></description><styleUrl>#style11</styleUrl><Point><coordinates>-1.393902316,50.93791839,0.000000</coordinates></Point></Placemark><Style id='style11'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Bookable Workstation (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3938905837,50.9378780116,0.000000
+-1.3938395594,50.9379229021,0.000000
+-1.3937626636,50.9378852009,0.000000
+-1.3938158439,50.9378396877,0.000000
+-1.3938905837,50.9378780116,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep8</styleUrl></Placemark><Style id='stylep8'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Bookable Workstation (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.393965054,50.9379131089,0.000000
+-1.3939137602,50.9379591881,0.000000
+-1.3938395594,50.9379229021,0.000000
+-1.3938905837,50.9378780116,0.000000
+-1.393965054,50.9379131089,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep10</styleUrl></Placemark><Style id='stylep10'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Health Profs &amp; Rehab Sciences</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39402,50.9378,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Health Profs &amp; Rehab Sciences (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39437594345679,50.9377703988152,0.000000
+-1.39410528106168,50.9379883980346,0.000000
+-1.39410222678972,50.9379667170362,0.000000
+-1.39404671090516,50.9379718117887,0.000000
+-1.39399326114575,50.9379767933239,0.000000
+-1.39399775272217,50.9380003990006,0.000000
+-1.39391376024311,50.9379591881231,0.000000
+-1.39383955940064,50.9379229021417,0.000000
+-1.39376266361232,50.9378852009204,0.000000
+-1.39374685326332,50.9378775021688,0.000000
+-1.39365792005019,50.9378339136244,0.000000
+-1.39373957690952,50.9377627000445,0.000000
+-1.39390828051987,50.937615574028,0.000000
+-1.39403943455136,50.9376107622805,0.000000
+-1.39437594345679,50.9377703988152,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre 1</name><description></description><styleUrl>#style7</styleUrl><Point><coordinates>-1.393740767,50.9378208,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre 1 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3938073997,50.9378279697,0.000000
+-1.3937468533,50.9378775022,0.000000
+-1.3936579201,50.9378339136,0.000000
+-1.3937395769,50.9377627,0.000000
+-1.3938004827,50.9377920799,0.000000
+-1.3938073997,50.9378279697,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep6</styleUrl></Placemark><Style id='stylep6'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39406,50.93797,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room</name><description></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.393976898,50.9376467,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3940394346,50.9376107623,0.000000
+-1.3940378176,50.9376776738,0.000000
+-1.393925079,50.9376859953,0.000000
+-1.3939082805,50.937615574,0.000000
+-1.3940394346,50.9376107623,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep4</styleUrl></Placemark><Style id='stylep4'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

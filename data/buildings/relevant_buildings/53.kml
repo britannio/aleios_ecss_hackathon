@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Banks entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39799,50.93755,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Erica the Rhino</name><description><div><a href='https://www.ericatherhino.org/'>Homepage</a></div></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.3981,50.93754,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/Culture-and-Entertainment/museum_crafts.png</href></Icon></IconStyle></Style><Placemark><name>New Mountbatten</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39862,50.93739,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>New Mountbatten (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39913396019065,50.9372142159638,0.000000
+-1.39907008997395,50.9373032056671,0.000000
+-1.39891522041897,50.937259276929,0.000000
+-1.39890569827696,50.9372705987727,0.000000
+-1.39892932396893,50.9372784674524,0.000000
+-1.39859712697686,50.9377277159088,0.000000
+-1.39838674153732,50.93774396259,0.000000
+-1.3984577982763,50.937687410529,0.000000
+-1.39842294364327,50.9376771643524,0.000000
+-1.39822064304129,50.9376180648148,0.000000
+-1.39809892132029,50.937582514482,0.000000
+-1.39802930188577,50.9375621919069,0.000000
+-1.39799786085083,50.9375543798841,0.000000
+-1.3979582451468,50.9375445865492,0.000000
+-1.39795617902165,50.9375199050719,0.000000
+-1.39795384340191,50.9374888833799,0.000000
+-1.39795249592898,50.9374689004178,0.000000
+-1.39794872300479,50.9374351048503,0.000000
+-1.39794863317326,50.9374339726701,0.000000
+-1.39794486024907,50.9373881759563,0.000000
+-1.39794521957518,50.9373882891745,0.000000
+-1.39807691259583,50.93743340658,0.000000
+-1.39810988076676,50.9374439924643,0.000000
+-1.3983446105505,50.9371126021949,0.000000
+-1.39848726301762,50.9371526816356,0.000000
+-1.39856272150148,50.9370497091047,0.000000
+-1.39867465158588,50.9370818632785,0.000000
+-1.3986993552562,50.9370889960675,0.000000
+-1.39913396019065,50.9372142159638,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Salisbury road entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39805,50.93743,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style6</styleUrl><Point><coordinates>-1.39862,50.93739,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style7</styleUrl><Point><coordinates>-1.39862,50.93739,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style8</styleUrl><Point><coordinates>-1.39862,50.93739,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style></Document></kml>

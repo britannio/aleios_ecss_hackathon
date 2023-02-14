@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>5 / 2025</name><description></description><styleUrl>#style12</styleUrl><Point><coordinates>-1.394669887,50.93558759,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>5 / 2025 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3946996065,50.9355713856,0.000000
+-1.394680113,50.9355981062,0.000000
+-1.3946696926,50.9356123722,0.000000
+-1.394640138,50.9356037673,0.000000
+-1.3946701417,50.9355627807,0.000000
+-1.3946768791,50.9355647621,0.000000
+-1.3946996065,50.9355713856,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep11</styleUrl></Placemark><Style id='stylep11'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>5 / 2027</name><description></description><styleUrl>#style14</styleUrl><Point><coordinates>-1.394641026,50.9355792,0.000000</coordinates></Point></Placemark><Style id='style14'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>5 / 2027 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3946701417,50.9355627807,0.000000
+-1.394640138,50.9356037673,0.000000
+-1.3946119309,50.9355956153,0.000000
+-1.3946419346,50.9355545721,0.000000
+-1.3946510076,50.9355572894,0.000000
+-1.3946701417,50.9355627807,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep13</styleUrl></Placemark><Style id='stylep13'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Eustice</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.3948,50.93558,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Eustice (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39507105982364,50.9355985024304,0.000000
+-1.39502425759734,50.9356624730956,0.000000
+-1.39500278786205,50.935691797672,0.000000
+-1.39468011301199,50.9355981061517,0.000000
+-1.39466969255469,50.9356123721839,0.000000
+-1.39464013798185,50.9356037672761,0.000000
+-1.39461193088193,50.9355956152567,0.000000
+-1.39457132703108,50.9355837835038,0.000000
+-1.39451626030417,50.9355677625131,0.000000
+-1.39452937570731,50.9355497035098,0.000000
+-1.39444475440755,50.935525077585,0.000000
+-1.39445454604415,50.935511773919,0.000000
+-1.39453377745221,50.9355348147339,0.000000
+-1.39454078431142,50.9355253040304,0.000000
+-1.3945460843716,50.9355180011674,0.000000
+-1.39455812179641,50.9355015838745,0.000000
+-1.39458956283135,50.93545867244,0.000000
+-1.39464714484106,50.9354753728051,0.000000
+-1.39466609929356,50.9354808641102,0.000000
+-1.39469673184475,50.935489808709,0.000000
+-1.39473428142362,50.9355006780926,0.000000
+-1.39480605681482,50.9355215110707,0.000000
+-1.39492409544316,50.9355557609192,0.000000
+-1.39499901493785,50.9355776128755,0.000000
+-1.39507105982364,50.9355985024304,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre G</name><description>Common Learning Space: Eustice Lecture Theatre G</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.394753226,50.93553578,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre G (Polygon)</name><description>Common Learning Space: Eustice Lecture Theatre G</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3948060568,50.9355215111,0.000000
+-1.3947720107,50.9355708761,0.000000
+-1.3947005048,50.9355500998,0.000000
+-1.3947342814,50.9355006781,0.000000
+-1.3948060568,50.9355215111,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre H</name><description>Common Learning Space: Eustice Lecture Theatre H</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.394943953,50.93559114,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre H (Polygon)</name><description>Common Learning Space: Eustice Lecture Theatre H</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3949990149,50.9355776129,0.000000
+-1.3949633518,50.9356264684,0.000000
+-1.3949530212,50.935623468,0.000000
+-1.3948892408,50.9356048995,0.000000
+-1.3949240954,50.9355557609,0.000000
+-1.3949990149,50.9355776129,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre J</name><description>Common Learning Space: Eustice Lecture Theatre J</description><styleUrl>#style10</styleUrl><Point><coordinates>-1.395011389,50.93562026,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre J (Polygon)</name><description>Common Learning Space: Eustice Lecture Theatre J</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3950710598,50.9355985024,0.000000
+-1.3950242576,50.9356624731,0.000000
+-1.3949629925,50.9356457162,0.000000
+-1.3949515839,50.9356423761,0.000000
+-1.3949585908,50.9356328654,0.000000
+-1.3949633518,50.9356264684,0.000000
+-1.3949990149,50.9355776129,0.000000
+-1.3950710598,50.9355985024,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep9</styleUrl></Placemark><Style id='stylep9'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Level 0</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39491,50.93565,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39467,50.93547,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

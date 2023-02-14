@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Main Entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39863,50.93612,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Mathematical Sciences Student Centre</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39856598,50.93600803,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Mathematical Sciences Student Centre (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39875055922739,50.936164498234,0.000000
+-1.39872693353542,50.9361946150412,0.000000
+-1.39870483497943,50.9362228636828,0.000000
+-1.39868282625497,50.9362509990863,0.000000
+-1.39867150748239,50.936265378139,0.000000
+-1.39866009887828,50.936279983629,0.000000
+-1.39837344647112,50.936198407946,0.000000
+-1.39845761861324,50.936080997586,0.000000
+-1.3984729798046,50.9360852999959,0.000000
+-1.39850864292138,50.9360357090362,0.000000
+-1.39852993299361,50.9360417097716,0.000000
+-1.39854628233178,50.93604640846,0.000000
+-1.39855158239196,50.9360478803383,0.000000
+-1.39851591927518,50.9360975845063,0.000000
+-1.39855005525598,50.9361056798271,0.000000
+-1.39863395790351,50.936131211214,0.000000
+-1.39869261789157,50.9361494964338,0.000000
+-1.39875055922739,50.936164498234,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Converted from RDF Document</name>
+	<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+	<Style id="stylep1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>66fc3135</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="1579FC8FCC277ADDA8E0">
+		<name>Wolfson/Rayleigh (Polygon)</name>
+		<styleUrl>#stylep1</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.39376365175913,50.9359507928864,0 -1.39380650139818,50.9358848978473,0 -1.39321109802787,50.935716706564,0 -1.3932244829256,50.9356955906177,0 -1.39306089971236,50.93564911285771,0 -1.39295364086744,50.9358045669131,0 -1.39330631944799,50.9359094103599,0 -1.39377568918394,50.9360412002752,0 -1.39376499923206,50.9360530885224,0 -1.39373409718628,50.9360438043677,0 -1.39370597991789,50.9360910742823,0 -1.393828060965,50.9361248708265,0 -1.39392319255359,50.9359946662498,0 -1.39376365175913,50.9359507928864,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

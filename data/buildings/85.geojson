@@ -1,0 +1,272 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39561,
+          50.9364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Latte's entrance",
+        "styleUrl": "#style4",
+        "styleHash": "-362f44f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395552317,
+          50.93636199,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lattes",
+        "styleUrl": "#style6",
+        "styleHash": "1e0fc8f6",
+        "description": "<p>INGREDIENTS FOR THE PERFECT COFFEE<p>Fair trade coffee bean, particularly selected for the University of Southampton<p>A skilled team, trained in the art of hand making your coffee<p>The home of great coffee and a whole lot more.<p>We are passionate about our business and aim to produce a 'Top of the Class' product, competing with High Street Brands. Walk into any of our Lattes Café Bars and you'll instantly notice the difference to other coffee shops.<p>The rich aroma of a carefully selected Fair Trade coffee<p>Warm and welcoming atmosphere<p>Great range of authentic, speciality coffee drinks and flavoured, detoxifying teas<p>Traditional Barista Coffee Machines (No push button coffee machines)<p>Passionate and well trained team<p>You will also find delicious danish pastries, homemade cakes and a selection of paninis. </p><p> </p><p>Supervisor: <strong>Mrs Lin Treviss</strong> -"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3955897471,
+              50.9363744097,
+              0
+            ],
+            [
+              -1.3955134801,
+              50.9363826748,
+              0
+            ],
+            [
+              -1.3955537246,
+              50.936328895,
+              0
+            ],
+            [
+              -1.3955897471,
+              50.9363744097,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lattes (Polygon)",
+        "styleUrl": "#stylep5",
+        "styleHash": "-46a48808",
+        "description": "<p>INGREDIENTS FOR THE PERFECT COFFEE<p>Fair trade coffee bean, particularly selected for the University of Southampton<p>A skilled team, trained in the art of hand making your coffee<p>The home of great coffee and a whole lot more.<p>We are passionate about our business and aim to produce a 'Top of the Class' product, competing with High Street Brands. Walk into any of our Lattes Café Bars and you'll instantly notice the difference to other coffee shops.<p>The rich aroma of a carefully selected Fair Trade coffee<p>Warm and welcoming atmosphere<p>Great range of authentic, speciality coffee drinks and flavoured, detoxifying teas<p>Traditional Barista Coffee Machines (No push button coffee machines)<p>Passionate and well trained team<p>You will also find delicious danish pastries, homemade cakes and a selection of paninis. </p><p> </p><p>Supervisor: <strong>Mrs Lin Treviss</strong> -",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39534,
+          50.93645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Life Sciences",
+        "styleUrl": "#style2",
+        "styleHash": "-54829e35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39571622986069,
+              50.9366911998832,
+              0
+            ],
+            [
+              -1.39565963599779,
+              50.9367090886135,
+              0
+            ],
+            [
+              -1.39570311445755,
+              50.9367731143608,
+              0
+            ],
+            [
+              -1.39541340777842,
+              50.9369135064954,
+              0
+            ],
+            [
+              -1.39519260188158,
+              50.9366390621206,
+              0
+            ],
+            [
+              -1.39496416030483,
+              50.9363017786347,
+              0
+            ],
+            [
+              -1.39490037991966,
+              50.9362076920698,
+              0
+            ],
+            [
+              -1.3949628128319,
+              50.9361549876593,
+              0
+            ],
+            [
+              -1.3950845345529,
+              50.9360662788121,
+              0
+            ],
+            [
+              -1.39513187576837,
+              50.936073411757,
+              0
+            ],
+            [
+              -1.39518766114752,
+              50.9361762732286,
+              0
+            ],
+            [
+              -1.39544583696017,
+              50.9361800661349,
+              0
+            ],
+            [
+              -1.3955537246258,
+              50.936328895004,
+              0
+            ],
+            [
+              -1.39558974706869,
+              50.9363744097095,
+              0
+            ],
+            [
+              -1.3956182236632,
+              50.9364082626581,
+              0
+            ],
+            [
+              -1.39563951373543,
+              50.9364319823515,
+              0
+            ],
+            [
+              -1.39557672149707,
+              50.9364853091598,
+              0
+            ],
+            [
+              -1.39570482125659,
+              50.9366073039108,
+              0
+            ],
+            [
+              -1.39571622986069,
+              50.9366911998832,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Life Sciences (Polygon)",
+        "styleUrl": "#stylep1",
+        "styleHash": "-637ee84",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39505,
+          50.93616,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reception entrance",
+        "styleUrl": "#style3",
+        "styleHash": "-4558f196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39534,
+          50.93645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shower",
+        "styleUrl": "#style7",
+        "styleHash": "-7200ae5b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39534,
+          50.93645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shower",
+        "styleUrl": "#style8",
+        "styleHash": "-d83e3bc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39534,
+          50.93645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shower (accessible)",
+        "styleUrl": "#style9",
+        "styleHash": "56f8e6e3"
+      }
+    }
+  ]
+}

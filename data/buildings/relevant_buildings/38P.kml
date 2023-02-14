@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>West Library Square Marquee</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39689,50.93499,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>West Library Square Marquee (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39707624773879,50.9349570343868,0.000000
+-1.39691754204336,50.9348653523394,0.000000
+-1.39667534965519,50.9350318580192,0.000000
+-1.39683405535062,50.9351235397383,0.000000
+-1.39707624773879,50.9349570343868,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="1176ADE4E7277ADE043B">
+			<name>Building 16 (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39559280134066,50.9374917704361,0
+							-1.39541933665929,50.93772301739019,0
+							-1.39569107703274,50.9378043639646,0
+							-1.39583049556483,50.9376185742939,0
+							-1.39586481120869,50.9375728909796,0
+							-1.39559280134066,50.9374917704361,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

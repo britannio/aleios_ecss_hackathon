@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>06 / 1131 (L/R E)</name><description>Nuffield L/R E - Music use only</description><styleUrl>#style12</styleUrl><Point><coordinates>-1.397342261,50.93589074,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>06 / 1131 (L/R E) (Polygon)</name><description>Nuffield L/R E - Music use only</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.397416561,50.9358783876,0.000000
+-1.3973786521,50.9359333001,0.000000
+-1.3972679797,50.9359030699,0.000000
+-1.3973057988,50.935848214,0.000000
+-1.397416561,50.9358783876,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep11</styleUrl></Placemark><Style id='stylep11'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Accessable Toilet with Baby Changing Facility</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Situated in accessible toilet&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Toilet and baby change only&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Open access. Ground floor.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;There is signage on the door&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style15</styleUrl><Point><coordinates>-1.39751,50.93608,0.000000</coordinates></Point></Placemark><Style id='style15'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/babychange.png</href></Icon></IconStyle></Style><Placemark><name>Interchange entrance</name><description></description><styleUrl>#style16</styleUrl><Point><coordinates>-1.39745,50.93613,0.000000</coordinates></Point></Placemark><Style id='style16'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room B</name><description>Common Learning Space: Nuffield Lecture Room B</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.397360376,50.93605509,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room B (Polygon)</name><description>Common Learning Space: Nuffield Lecture Room B</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3974195255,50.9360460688,0.000000
+-1.3973853895,50.9360896024,0.000000
+-1.3973021157,50.936066109,0.000000
+-1.3973356228,50.9360194618,0.000000
+-1.3974195255,50.9360460688,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room C</name><description>Common Learning Space: Nuffield Lecture Room C</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.397396722,50.93600811,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room C (Polygon)</name><description>Common Learning Space: Nuffield Lecture Room C</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.397458153,50.9359967042,0.000000
+-1.3974195255,50.9360460688,0.000000
+-1.3973356228,50.9360194618,0.000000
+-1.3973732622,50.935970267,0.000000
+-1.397458153,50.9359967042,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room F</name><description>Common Learning Space: Nuffield Lecture Room F</description><styleUrl>#style10</styleUrl><Point><coordinates>-1.397200209,50.93585188,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room F (Polygon)</name><description>Common Learning Space: Nuffield Lecture Room F</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.397276334,50.9358426095,0.000000
+-1.3972393234,50.9358944085,0.000000
+-1.3971241594,50.9358614043,0.000000
+-1.3971612598,50.935809209,0.000000
+-1.397276334,50.9358426095,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep9</styleUrl></Placemark><Style id='stylep9'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre A</name><description>Common Learning Space: Nuffield Lecture Theatre A</description><styleUrl>#style4</styleUrl><Point><coordinates>-1.397493861,50.93606275,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre A (Polygon)</name><description>Common Learning Space: Nuffield Lecture Theatre A</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3975655915,50.9360496919,0.000000
+-1.397552027,50.9360739779,0.000000
+-1.3975319945,50.9360950936,0.000000
+-1.397509896,50.9361078876,0.000000
+-1.3974850127,50.9361124731,0.000000
+-1.3974564462,50.9361111144,0.000000
+-1.3974361443,50.936099113,0.000000
+-1.3974229391,50.936080205,0.000000
+-1.3974278798,50.9360633917,0.000000
+-1.3974406359,50.9360439742,0.000000
+-1.3974646209,50.9360222923,0.000000
+-1.3974799821,50.9360145932,0.000000
+-1.3975080095,50.936015499,0.000000
+-1.3975397201,50.9360203109,0.000000
+-1.3975624474,50.9360299914,0.000000
+-1.3975655915,50.9360496919,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep3</styleUrl></Placemark><Style id='stylep3'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>New and Expectant Parents Room</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Large classroom size, with three compartments&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No, but nearby&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;One rocking chair and stool. Small sofas x 2.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Code available from security&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style14</styleUrl><Point><coordinates>-1.39737,50.93587,0.000000</coordinates></Point></Placemark><Style id='style14'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/babychange.png</href></Icon></IconStyle></Style><Placemark><name>Nuffield Café &amp; Bar</name><description><div><a href='https://www.nstheatres.co.uk/campus/cafe-bar'>Homepage</a></div>Café run by the Nuffield Theater serving food, drinks and snacks.</description><styleUrl>#style13</styleUrl><Point><coordinates>-1.39719,50.93596,0.000000</coordinates></Point></Placemark><Style id='style13'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/Restaurants-and-Hotels/coffee.png</href></Icon></IconStyle></Style><Placemark><name>Nuffield Theatre</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39719,50.93596,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Nuffield Theatre (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39764033136775,50.9360101775968,0.000000
+-1.39760251229429,50.9360628821713,0.000000
+-1.39756945429183,50.9361089066328,0.000000
+-1.39754232517025,50.9361466659049,0.000000
+-1.39753433016422,50.9361577615772,0.000000
+-1.39743129340113,50.936128380684,0.000000
+-1.39736904015195,50.9361106049516,0.000000
+-1.39735251115072,50.9361333058061,0.000000
+-1.39731469207726,50.9361861800727,0.000000
+-1.3972566609099,50.936169593184,0.000000
+-1.39723051993513,50.9361621772011,0.000000
+-1.39684397486838,50.9360518996978,0.000000
+-1.39673860248555,50.9360217827982,0.000000
+-1.3969572524257,50.9357176123417,0.000000
+-1.39704151439936,50.9357416720538,0.000000
+-1.39703199225734,50.935754975654,0.000000
+-1.39704510766049,50.9357587685946,0.000000
+-1.39705292300346,50.9357609764256,0.000000
+-1.39706217565089,50.9357480691046,0.000000
+-1.39714095790131,50.9357704870809,0.000000
+-1.39713062727554,50.9357848662823,0.000000
+-1.397152636,50.9357912067161,0.000000
+-1.3971624276366,50.9357775068491,0.000000
+-1.39724201837077,50.9358002078662,0.000000
+-1.39723249622876,50.9358133982277,0.000000
+-1.39725118118667,50.935818776271,0.000000
+-1.39726070332868,50.935805585911,0.000000
+-1.39733939574757,50.9358281170816,0.000000
+-1.39733122107848,50.9358394958847,0.000000
+-1.39734981620486,50.935844817314,0.000000
+-1.39735763154784,50.935833778178,0.000000
+-1.39743785110271,50.9358567056114,0.000000
+-1.39742913744445,50.9358687637385,0.000000
+-1.39743937823869,50.9358717075061,0.000000
+-1.39744602577179,50.9358735756663,0.000000
+-1.39745491909311,50.9358611778749,0.000000
+-1.39754007938204,50.9358855771781,0.000000
+-1.39748393467678,50.9359637001512,0.000000
+-1.3975206757719,50.9359741731484,0.000000
+-1.39753504881645,50.935954302757,0.000000
+-1.39755571006799,50.9359601902813,0.000000
+-1.39757430519437,50.9359655116968,0.000000
+-1.39755885417148,50.9359869671852,0.000000
+-1.39764033136775,50.9360101775968,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Obelisk entrance</name><description></description><styleUrl>#style17</styleUrl><Point><coordinates>-1.39755,50.93596,0.000000</coordinates></Point></Placemark><Style id='style17'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

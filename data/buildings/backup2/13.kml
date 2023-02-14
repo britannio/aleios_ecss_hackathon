@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>13/5035</name><description></description><styleUrl>#style6</styleUrl><Point><coordinates>-1.39377506,50.93562519,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>13/5035 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3938561782,50.9356122024,0.000000
+-1.3938124303,50.93567238,0.000000
+-1.3936939425,50.9356381869,0.000000
+-1.3937376904,50.9355780092,0.000000
+-1.3938561782,50.9356122024,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Alternate Main</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39409,50.93568,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.3936,50.93552,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style7</styleUrl><Point><coordinates>-1.3935,50.93554,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>Tizard</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.3937,50.93565,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Tizard (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39420858731936,50.935713479731,0.000000
+-1.39410680819767,50.9358542147303,0.000000
+-1.39318953846105,50.9355906900777,0.000000
+-1.39329131758274,50.9354500108923,0.000000
+-1.39359333118126,50.9355366829075,0.000000
+-1.39370400362427,50.9355684984598,0.000000
+-1.39373769044742,50.9355780091545,0.000000
+-1.3938561782334,50.9356122023502,0.000000
+-1.39386183761969,50.9356137874646,0.000000
+-1.3939029804597,50.9356256758211,0.000000
+-1.39410519123015,50.9356838155014,0.000000
+-1.39420858731936,50.935713479731,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

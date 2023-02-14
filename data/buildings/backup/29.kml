@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>29/3012</name><description>Public Workstation (Open Access: NON-BOOKABLE)</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.393965316,50.93395628,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>29/3012 (Polygon)</name><description>Public Workstation (Open Access: NON-BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3940328768,50.9339523881,0.000000
+-1.3940025138,50.933993376,0.000000
+-1.3939876916,50.9339885073,0.000000
+-1.3938971414,50.9339588986,0.000000
+-1.3939274146,50.933919892,0.000000
+-1.3940328768,50.9339523881,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Accessable Toilet with Baby Changing Facility</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Situated in accessible toilet&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Toilet and baby change only&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Open access.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;There is signage on the door&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style10</styleUrl><Point><coordinates>-1.3943,50.93406,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/babychange.png</href></Icon></IconStyle></Style><Placemark><name>East Entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39383,50.93389,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Graham Hills</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39407,50.93402,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Graham Hills (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39433228533398,50.9340442712822,0.000000
+-1.39427434399815,50.9341187741136,0.000000
+-1.39425476072496,50.9341415891665,0.000000
+-1.39421065344451,50.9341295872045,0.000000
+-1.39420149062861,50.9341268697788,0.000000
+-1.39413402715077,50.9341072816633,0.000000
+-1.39410734718684,50.9340995822862,0.000000
+-1.39399685440689,50.9340675958897,0.000000
+-1.39393774526119,50.9340476680704,0.000000
+-1.39383345085671,50.9340130774321,0.000000
+-1.39371523256532,50.9339788830606,0.000000
+-1.39362207727035,50.9339479156197,0.000000
+-1.39369645777588,50.9338487857022,0.000000
+-1.39392741463543,50.9339198920494,0.000000
+-1.3940149105441,50.9339468965811,0.000000
+-1.39403287684978,50.9339523880668,0.000000
+-1.39418388364904,50.9339984712302,0.000000
+-1.39420679068879,50.9340052081999,0.000000
+-1.39421200091744,50.9340066801427,0.000000
+-1.39427784742776,50.9340272873374,0.000000
+-1.394314947849,50.9340388930337,0.000000
+-1.39433228533398,50.9340442712822,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.394066758,50.9340161,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3941838836,50.9339984712,0.000000
+-1.3941180371,50.9340858819,0.000000
+-1.3939494234,50.9340327788,0.000000
+-1.3940149105,50.9339468966,0.000000
+-1.3941838836,50.9339984712,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Quiet Room (bookable by new and expectant parents)</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;4.6 x 2.6m&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No, but nearby&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Chairs and tables&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Bookable and unlocked&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;There is a small fridge. Booking required.&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style9</styleUrl><Point><coordinates>-1.39431,50.93405,0.000000</coordinates></Point></Placemark><Style id='style9'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/feeding.png</href></Icon></IconStyle></Style><Placemark><name>West Entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39419,50.934,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

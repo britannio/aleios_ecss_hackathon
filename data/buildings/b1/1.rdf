@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:ns0="http://data.ordnancesurvey.co.uk/ontology/spatialrelations/"
+  xmlns:ns1="http://id.southampton.ac.uk/ns/"
+  xmlns:oo="http://purl.org/openorg/"
+  xmlns:ns2="http://vocab.deri.ie/rooms#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:ns3="http://purl.org/openorg/portals/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:ns4="http://purl.org/openorg/space-configuration/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:ns5="http://www.semanticdesktop.org/ontologies/2007/03/22/nfo#">
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/building/1">
+    <rdf:type rdf:resource="http://vocab.deri.ie/rooms#Building"/>
+    <rdf:type rdf:resource="http://id.southampton.ac.uk/ns/UoSBuilding"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building 1</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.93772</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.39609</geo:long>
+    <skos:notation rdf:datatype="http://id.southampton.ac.uk/ns/building-code-scheme">1</skos:notation>
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/site/1"/>
+    <ns0:easting rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442529</ns0:easting>
+    <ns0:northing rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115537</ns0:northing>
+    <ns1:disabledGoPage rdf:resource="https://www.accessable.co.uk/university-of-southampton/access-guides/building-1-southampton"/>
+    <ns1:electricityTimeSeries rdf:datatype="http://www.w3.org/2001/XMLSchema#string">elec/b1/ekw</ns1:electricityTimeSeries>
+    <oo:formalOrganization rdf:resource="http://id.southampton.ac.uk/"/>
+    <ns2:occupant rdf:resource="http://id.southampton.ac.uk/org/FP"/>
+    <ns2:occupant rdf:resource="http://id.southampton.ac.uk/org/F7"/>
+    <ns2:occupant rdf:resource="http://id.southampton.ac.uk/org/F7FP060000"/>
+    <ns1:ombielName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bldg 1 (ECS)</ns1:ombielName>
+    <ns1:buildingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1965</ns1:buildingDate>
+    <dcterms:spatial rdf:datatype="http://www.w3.org/2001/XMLSchema#string">POLYGON((-1.39627543112506 50.937596610079,-1.39625737498785 50.937620385775,-1.39608408996954 50.9378490847068,-1.39591080495123 50.9377966651995,-1.39583633461418 50.9377744746344,-1.39588394532424 50.9377118654827,-1.39588897588983 50.9377049026153,-1.39589373696084 50.9376983926163,-1.39592140507159 50.9376621630401,-1.39596730898261 50.9376015916544,-1.39598033455422 50.9375843825734,-1.39598581427746 50.9375770800338,-1.39602758593817 50.9375219996014,-1.39607834075172 50.9375372840034,-1.39610960212361 50.9375466810777,-1.39627543112506 50.937596610079))</dcterms:spatial>
+    <oo:lacksFeature rdf:resource="http://id.southampton.ac.uk/building/1#residential"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/site/1">
+    <rdf:type rdf:resource="http://id.southampton.ac.uk/ns/UoSSite"/>
+    <rdf:type rdf:resource="http://vocab.deri.ie/rooms#Site"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Site"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highfield Campus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/">
+    <rdf:type rdf:resource="http://purl.org/vocab/aiiso/schema#Institution"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#FormalOrganization"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Organization"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University of Southampton</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/org/FP">
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">School of Electronics &amp; Computer Science</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/org/F7">
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#OrganizationalUnit"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physical Sciences and Engineering</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/org/F7FP060000">
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#OrganizationalUnit"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/org#Organization"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comms, Signal Processing &amp;amp; Control</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/building/1#residential">
+    <rdf:type rdf:resource="http://id.southampton.ac.uk/ns/PlaceFeature-ResidentialUse"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building 1 is non-residential</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/building-portal/1-A">
+    <ns3:connectsBuilding rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://purl.org/openorg/portals/BuildingEntrance"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main</rdfs:label>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.93758</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.39597</geo:long>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/facility/F10079">
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://purl.org/openorg/Facility"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biometrics Laboratory</rdfs:label>
+    <dcterms:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The lab is used primarily for collecting biometric data. We acquire images of a walking subject, the subject`s face and the subject`s ear. (We pioneered using gait as a biometric and were amongst the first to show that people can be recognised by their ear shape.) The gait images are multiview and acquired in controlled lighting, enabling 3D reconstruction of the walking subject acquired again in controlled lighting; the face images are acquired as the subject walks towards the camera; the ear image is single shot acquired using a flash. The background is patterned chromakey, allowing calibration and matteing.</dcterms:description>
+    <skos:notation rdf:datatype="http://id.southampton.ac.uk/ns/equipment-code-scheme">F10079</skos:notation>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The lab is used primarily for collecting biometric data. We acquire images of a walking subject, the subject`s face and the subject`s ear. (We pioneered using gait as a biometric and were amongst the first to show that people can be recognised by their ear shape.) The gait images are multiview and acquired in controlled lighting, enabling 3D reconstruction of the walking subject acquired again in controlled lighting; the face images are acquired as the subject walks towards the camera; the ear image is single shot acquired using a flash. The background is patterned chromakey, allowing calibration and matteing.</rdfs:comment>
+    <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The lab is used primarily for collecting biometric data. We acquire images of a walking subject, the subject`s face and the subject`s ear. (We pioneered using gait as a biometric and were amongst the first to show that people can be recognised by their ear shape.) The gait images are multiview and acquired in controlled lighting, enabling 3D reconstruction of the walking subject acquired again in controlled lighting; the face images are acquired as the subject walks towards the camera; the ear image is single shot acquired using a flash. The background is patterned chromakey, allowing calibration and matteing.</dc:description>
+    <oo:formalOrganization rdf:resource="http://id.southampton.ac.uk/"/>
+    <oo:organizationPart rdf:resource="http://id.southampton.ac.uk/org/FP"/>
+    <oo:organizationPart rdf:resource="http://id.southampton.ac.uk/org/F7"/>
+    <oo:primaryContact rdf:resource="http://id.southampton.ac.uk/facility/F10079#primary_contact"/>
+    <ns1:facilityIsRCUKCosted rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</ns1:facilityIsRCUKCosted>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/room/1-1005">
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://vocab.deri.ie/rooms#Room"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 / 1005</rdfs:label>
+    <oo:hasFeature rdf:resource="http://id.southampton.ac.uk/room/1-1005#feature-shower"/>
+    <ns4:spaceConfiguration rdf:resource="http://id.southampton.ac.uk/room/1-1005#config"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/floor/1-2">
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://vocab.deri.ie/rooms#Floor"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Building 1 / Level 2</rdfs:label>
+    <oo:hasFeature rdf:resource="http://id.southampton.ac.uk/mfd/PR-ID301059"/>
+    <ns1:levelNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</ns1:levelNumber>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://id.southampton.ac.uk/room/1-2013">
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <ns0:within rdf:resource="http://id.southampton.ac.uk/floor/1-2"/>
+    <rdf:type rdf:resource="http://vocab.deri.ie/rooms#Room"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 / 2013</rdfs:label>
+    <ns1:roomNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</ns1:roomNumber>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/100/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5151515151515</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2276</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/1000/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">666</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5015015015015</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95461</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/1600/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1066</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1600</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5009380863039</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225175</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/1920/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1280</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1920</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310077</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/200/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5037593984962</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5506</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/220x220/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8646</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/240x260/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.92307692307692</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10830</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/300/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10377</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/320x198/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.6161616161616</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10983</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/400/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5037593984962</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17225</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/480x297/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.6161616161616</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23210</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/50/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5151515151515</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1244</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/600/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36622</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/800/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">533</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">800</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5009380863039</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63069</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/800x600/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">800</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.3333333333333</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69556</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://data.southampton.ac.uk/image-archive/buildings/raw/1.jpg">
+    <foaf:depicts rdf:resource="http://id.southampton.ac.uk/building/1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dcterms:creator rdf:resource="http://id.ecs.soton.ac.uk/person/10955"/>
+    <dcterms:format rdf:resource="http://purl.org/xtypes/Format-JPEG"/>
+    <dcterms:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010</dcterms:date>
+    <ns5:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2304</ns5:height>
+    <ns5:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3456</ns5:width>
+    <ns5:aspectRatio rdf:datatype="http://www.w3.org/2001/XMLSchema#float">1.5</ns5:aspectRatio>
+    <ns5:fileSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3646269</ns5:fileSize>
+    <dcterms:thing rdf:resource="http://example.org"/>
+  </rdf:Description>
+
+</rdf:RDF>

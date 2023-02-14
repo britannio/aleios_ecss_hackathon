@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>44/1061</name><description>CLS Computer Workstation (BOOKABLE)</description><styleUrl>#style11</styleUrl><Point><coordinates>-1.398996503,50.93481996,0.000000</coordinates></Point></Placemark><Style id='style11'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>44/1061 (Polygon)</name><description>CLS Computer Workstation (BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3991417755,50.9347956914,0.000000
+-1.3990613763,50.9349046698,0.000000
+-1.3988500027,50.9348426795,0.000000
+-1.3988639266,50.9348238843,0.000000
+-1.3988729098,50.9348117127,0.000000
+-1.3989327376,50.934736475,0.000000
+-1.3990908411,50.9347806892,0.000000
+-1.399127133,50.9347913889,0.000000
+-1.3991417755,50.9347956914,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep10</styleUrl></Placemark><Style id='stylep10'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Accessable Toilet with Baby Changing Facility</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Situated in accessible toilet&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Toilet and baby change, bed, chairs.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Open access. No steps from main entrance.&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;There is signage on the door&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style12</styleUrl><Point><coordinates>-1.3988,50.93421,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/babychange.png</href></Icon></IconStyle></Style><Placemark><name>East entrance</name><description></description><styleUrl>#style7</styleUrl><Point><coordinates>-1.39856,50.93449,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre A</name><description>Common Learning Space: Shackleton Lecture Theatre A</description><styleUrl>#style9</styleUrl><Point><coordinates>-1.398573993,50.93458917,0.000000</coordinates></Point></Placemark><Style id='style9'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre A (Polygon)</name><description>Common Learning Space: Shackleton Lecture Theatre A</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3986848025,50.9345596744,0.000000
+-1.3986323409,50.9346278925,0.000000
+-1.3986070084,50.9346621996,0.000000
+-1.3984639068,50.9346203064,0.000000
+-1.3985217583,50.9345418981,0.000000
+-1.3985413416,50.9345154034,0.000000
+-1.3985674826,50.934523499,0.000000
+-1.3986661176,50.9345539,0.000000
+-1.3986848025,50.9345596744,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep8</styleUrl></Placemark><Style id='stylep8'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>North entrance</name><description></description><styleUrl>#style6</styleUrl><Point><coordinates>-1.39865,50.93463,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>North entrance (iSolutions Workstation Room)</name><description></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.398864,50.9348239,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Shackleton</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39894,50.93452,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Shackleton (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39939959202017,50.9343623794227,0.000000
+-1.39939249532942,50.9343720035895,0.000000
+-1.39937704430654,50.9343928936859,0.000000
+-1.39917402505233,50.9346670116425,0.000000
+-1.39915929268167,50.9346880148311,0.000000
+-1.39915399262149,50.9346954876614,0.000000
+-1.39914851289826,50.9347025642042,0.000000
+-1.39911752102096,50.9347445705398,0.000000
+-1.39909084105702,50.9347806891646,0.000000
+-1.3991271329945,50.9347913888772,0.000000
+-1.39914177553363,50.9347956914065,0.000000
+-1.3990613763157,50.9349046698106,0.000000
+-1.39898097709777,50.9348810625624,0.000000
+-1.39885000272934,50.9348426795289,0.000000
+-1.39886392661625,50.9348238842857,0.000000
+-1.39887290976909,50.9348117126632,0.000000
+-1.39872585555708,50.9347684609186,0.000000
+-1.39871552493131,50.9347823875319,0.000000
+-1.39858329292149,50.9347436647432,0.000000
+-1.39866234466649,50.9346366673964,0.000000
+-1.39864824111653,50.9346324780773,0.000000
+-1.398632340936,50.9346278924708,0.000000
+-1.39860700844499,50.9346621995899,0.000000
+-1.39846390682023,50.9346203064048,0.000000
+-1.39850469033413,50.9345648827951,0.000000
+-1.39852175832453,50.9345418981122,0.000000
+-1.39854134159772,50.9345154034391,0.000000
+-1.39855912824035,50.9344912864799,0.000000
+-1.39856254183843,50.9344865876343,0.000000
+-1.398580148818,50.934462810336,0.000000
+-1.39867016000946,50.9343408099592,0.000000
+-1.39878164093622,50.9341897102091,0.000000
+-1.39878685116487,50.9341826902013,0.000000
+-1.39880885988933,50.9341892006924,0.000000
+-1.39886895718184,50.9342068073205,0.000000
+-1.39892061031068,50.9342218663604,0.000000
+-1.39896813118921,50.9342359063631,0.000000
+-1.3990272403349,50.9342531732962,0.000000
+-1.39932754713438,50.9343412062487,0.000000
+-1.39939959202017,50.9343623794227),0.000000
+(-1.39918399635198,50.9343956110961,0.000000
+-1.39887084364394,50.9343048608313,0.000000
+-1.39872316061123,50.9345074776793,0.000000
+-1.3987072604307,50.9345293867407,0.000000
+-1.39902050297027,50.9346199667301,0.000000
+-1.39918399635198,50.9343956110961,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style13</styleUrl><Point><coordinates>-1.39894,50.93452,0.000000</coordinates></Point></Placemark><Style id='style13'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>South entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.3989207,50.9342219,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>West entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39915,50.9347,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

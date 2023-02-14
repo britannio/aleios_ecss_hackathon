@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Soton Stat Sci Res Institute</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.36574,50.95334,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Soton Stat Sci Res Institute (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39941845664114,50.9366271174132,0.000000
+-1.39939698690584,50.9367018991563,0.000000
+-1.39936338991422,50.9366977100232,0.000000
+-1.39936285092505,50.9367035974534,0.000000
+-1.39935072366871,50.9367032011841,0.000000
+-1.39932323522102,50.9367698876011,0.000000
+-1.39933257769997,50.9367715858957,0.000000
+-1.39933536247735,50.9367851156405,0.000000
+-1.39934533377701,50.9367855685189,0.000000
+-1.39936213227282,50.9368814654246,0.000000
+-1.39920250164683,50.9368921080442,0.000000
+-1.39918237938447,50.936797399966,0.000000
+-1.39918040309084,50.9367936071101,0.000000
+-1.39917303690551,50.9367615093468,0.000000
+-1.39918714045547,50.9367602073207,0.000000
+-1.39918893708604,50.9367569805601,0.000000
+-1.39919244051565,50.9367508666973,0.000000
+-1.39918507433032,50.9367462812997,0.000000
+-1.39924005122571,50.9366009069782,0.000000
+-1.39941845664114,50.9366271174132,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Converted from RDF Document</name>
+        <description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+        <Placemark>
+            <name>Building 1</name>
+            <description></description>
+            <styleUrl>#style2</styleUrl>
+            <Point>
+                <coordinates>-1.39609,50.93772,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style2'>
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Building 1 (Polygon)</name>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-1.39627543112506,50.937596610079,0.000000
+                            -1.39625737498785,50.937620385775,0.000000
+                            -1.39608408996954,50.9378490847068,0.000000
+                            -1.39591080495123,50.9377966651995,0.000000
+                            -1.39583633461418,50.9377744746344,0.000000
+                            -1.39588394532424,50.9377118654827,0.000000
+                            -1.39588897588983,50.9377049026153,0.000000
+                            -1.39589373696084,50.9376983926163,0.000000
+                            -1.39592140507159,50.9376621630401,0.000000
+                            -1.39596730898261,50.9376015916544,0.000000
+                            -1.39598033455422,50.9375843825734,0.000000
+                            -1.39598581427746,50.9375770800338,0.000000
+                            -1.39602758593817,50.9375219996014,0.000000
+                            -1.39607834075172,50.9375372840034,0.000000
+                            -1.39610960212361,50.9375466810777,0.000000
+                            -1.39627543112506,50.937596610079,0.000000
+</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <styleUrl>#stylep1</styleUrl>
+        </Placemark>
+        <Style id='stylep1'>
+            <LineStyle>
+                <color>ff000000</color>
+            </LineStyle>
+            <PolyStyle>
+                <color>66fc3135</color>
+            </PolyStyle>
+        </Style>
+        <Placemark>
+            <name>Main</name>
+            <description></description>
+            <styleUrl>#style3</styleUrl>
+            <Point>
+                <coordinates>-1.39597,50.93758,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style3'>
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Document>
+</kml>

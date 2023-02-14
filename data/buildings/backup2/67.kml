@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>New and Expectant Parents Room</name><description>
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Size:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;6x6 foot approx&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Wheelchair Accessible:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Washing Facilities:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;No, but nearby&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Furniture:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Power:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Yes&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Phone:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Access Arrangements:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;Behind card reader door&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;desc-term&quot;&gt;
+        &lt;span class=&quot;desc-term-label&quot;&gt;Notes:&lt;/span&gt;
+        &lt;span class=&quot;desc-term-value&quot;&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    </description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39644,50.93648,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/feeding.png</href></Icon></IconStyle></Style><Placemark><name>Nightingale</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39658,50.93674,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Nightingale (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39677579273831,50.9370544076913,0.000000
+-1.39654833930837,50.9370720698441,0.000000
+-1.39649848281011,50.9368180059241,0.000000
+-1.39640595633584,50.9363453120049,0.000000
+-1.39645329755131,50.9363415757224,0.000000
+-1.39663340976578,50.9363275929658,0.000000
+-1.39666323383321,50.9364797047529,0.000000
+-1.39677579273831,50.9370544076913,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Reception entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39648,50.93674,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

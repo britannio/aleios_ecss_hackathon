@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Main</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39473,50.9364,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>R J Mitchell Wind Tunnel</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.3946,50.93627,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>R J Mitchell Wind Tunnel (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39477021403499,50.9364050924833,0.000000
+-1.39455057594802,50.9364352091346,0.000000
+-1.3945065584991,50.9362999104917,0.000000
+-1.39443828653751,50.9363078925565,0.000000
+-1.39440019796946,50.9361734993119,0.000000
+-1.39445643250624,50.9361655172241,0.000000
+-1.39444367642921,50.9360989997723,0.000000
+-1.39453063334871,50.9360883003605,0.000000
+-1.39451733828251,50.9360428985964,0.000000
+-1.39462980735608,50.9360290855821,0.000000
+-1.39466187721172,50.9361403821301,0.000000
+-1.39470104375811,50.9361373817688,0.000000
+-1.39473913232616,50.936268774765,0.000000
+-1.39472511860772,50.9362708127405,0.000000
+-1.39477021403499,50.9364050924833,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

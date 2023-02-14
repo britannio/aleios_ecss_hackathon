@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Converted from RDF Document</name>
+	<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+	<Style id="stylep1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>66fc3135</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="3ACE356E94277AE081B9">
+		<name>Graham Hills (Polygon)</name>
+		<styleUrl>#stylep1</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.394314947849,50.9340388930337,0 -1.39427784742776,50.93402728733739,0 -1.39421200091744,50.9340066801427,0 -1.39420679068879,50.9340052081999,0 -1.39418388364904,50.9339984712302,0 -1.39403287684978,50.9339523880668,0 -1.3940149105441,50.93394689658109,0 -1.39392741463543,50.9339198920494,0 -1.39369645777588,50.9338487857022,0 -1.39362207727035,50.9339479156197,0 -1.39371523256532,50.9339788830606,0 -1.39383345085671,50.93401307743211,0 -1.39393774526119,50.9340476680704,0 -1.39399685440689,50.9340675958897,0 -1.39410734718684,50.9340995822862,0 -1.39413402715077,50.9341072816633,0 -1.39420149062861,50.9341268697788,0 -1.39421065344451,50.9341295872045,0 -1.39425476072496,50.9341415891665,0 -1.39427434399815,50.9341187741136,0 -1.39433228533398,50.9340442712822,0 -1.394314947849,50.9340388930337,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

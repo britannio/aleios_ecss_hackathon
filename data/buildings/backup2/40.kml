@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Breastfeeding-friendly space in SUSU Meeting Room 6</name><description>For people who prefer quiet and privacy when breastfeeding; A room fitted with blinds and a lockable door. Talk to SUSU Reception (B42, Level 4) for more information.</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.39726,50.93485,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/feeding.png</href></Icon></IconStyle></Style><Placemark><name>Highfield Muslim Prayer Room</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.397978,50.935078,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/Tourism/prayer.png</href></Icon></IconStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style7</styleUrl><Point><coordinates>-1.39721,50.93479,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Stags</name><description></description><styleUrl>#style8</styleUrl><Point><coordinates>-1.39734,50.93459,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>The Stag's</name><description></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.397388851,50.93476419,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>The Stag's (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3975706221,50.93486991,0.000000
+-1.3974955229,50.9349607157,0.000000
+-1.3973631113,50.934919389,0.000000
+-1.397185694,50.9346256846,0.000000
+-1.3973426297,50.9345910944,0.000000
+-1.3974004812,50.9345783,0.000000
+-1.3975706221,50.93486991,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep4</styleUrl></Placemark><Style id='stylep4'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>West Bld &amp; Staff Social Centre</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39752,50.93495,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>West Bld &amp; Staff Social Centre (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39806155140447,50.9350090623905,0.000000
+-1.39803280531538,50.9350475018986,0.000000
+-1.39795555020095,50.935153479288,0.000000
+-1.39791674298067,50.9351423833761,0.000000
+-1.39787847474957,50.9351314006851,0.000000
+-1.39782394701182,50.9351157758214,0.000000
+-1.39780759767365,50.9351110770389,0.000000
+-1.39778612793836,50.9351049063478,0.000000
+-1.39775360892508,50.935095565392,0.000000
+-1.39773492396717,50.9350895645345,0.000000
+-1.39763287535089,50.9352227720659,0.000000
+-1.39754241500178,50.9351957116633,0.000000
+-1.39746255477302,50.9351722743981,0.000000
+-1.39740793720375,50.9351563664891,0.000000
+-1.39739194719169,50.9351771996215,0.000000
+-1.39733589231796,50.9351597065844,0.000000
+-1.397348648395,50.935139213115,0.000000
+-1.39724489297968,50.9351090956244,0.000000
+-1.3972275554947,50.935104113782,0.000000
+-1.39733418551892,50.9349632066766,0.000000
+-1.3973132547728,50.934920011685,0.000000
+-1.39725091169208,50.9349320700549,0.000000
+-1.39721560790142,50.9348746087803,0.000000
+-1.39723519117461,50.9348699099734,0.000000
+-1.3972275554947,50.934855870162,0.000000
+-1.39719108389416,50.9347946723864,0.000000
+-1.39715398347293,50.9347355125731,0.000000
+-1.39714275453188,50.9347186987176,0.000000
+-1.39712380007938,50.9347230012536,0.000000
+-1.39707627920085,50.9346499147003,0.000000
+-1.39718569400246,50.934625684586,0.000000
+-1.39734262968259,50.9345910943777,0.000000
+-1.39740048118689,50.9345782999569,0.000000
+-1.3975706221017,50.9348699099734,0.000000
+-1.39785574737288,50.9349506954184,0.000000
+-1.39806155140447,50.9350090623905,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

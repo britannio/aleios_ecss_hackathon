@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="10F32DDB6E277B08A4ED">
+			<name>Centenary Building (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39766719099474,50.9366314763826,0
+							-1.39757223906921,50.9367602073207,0
+							-1.39739104887641,50.9367690950636,0
+							-1.39742132210148,50.93699881715399,0
+							-1.39784981849201,50.9369713615178,0
+							-1.39792276169308,50.93687291736131,0
+							-1.39802975104342,50.93690416590281,0
+							-1.39813072168135,50.93676750998861,0
+							-1.39766719099474,50.9366314763826,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="1457C85662277ADF2178">
+			<name>ISVR (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39271810259994,50.93537126432949,0
+							-1.39255721433256,50.9356073903953,0
+							-1.39297834453775,50.9357212920631,0
+							-1.39313923280514,50.93548516657571,0
+							-1.39271810259994,50.93537126432949,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

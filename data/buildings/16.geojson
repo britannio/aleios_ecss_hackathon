@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39564,
+          50.93765,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Building 16",
+        "styleUrl": "#style2",
+        "styleHash": "-eda9009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39586481120869,
+              50.9375728909796,
+              0
+            ],
+            [
+              -1.39583049556483,
+              50.9376185742939,
+              0
+            ],
+            [
+              -1.39569107703274,
+              50.9378043639646,
+              0
+            ],
+            [
+              -1.39541933665929,
+              50.9377230173902,
+              0
+            ],
+            [
+              -1.39559280134066,
+              50.9374917704361,
+              0
+            ],
+            [
+              -1.39586481120869,
+              50.9375728909796,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Building 16 (Polygon)",
+        "styleUrl": "#stylep1",
+        "styleHash": "32164fe0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39583,
+          50.93762,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Main",
+        "styleUrl": "#style3",
+        "styleHash": "-30a4f42a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395885108,
+          50.93465779,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2A",
+        "styleUrl": "#style15",
+        "styleHash": "691eebf9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3959408087,
+              50.9346449894,
+              0
+            ],
+            [
+              -1.3959085592,
+              50.9346897698,
+              0
+            ],
+            [
+              -1.3958269023,
+              50.9346665021,
+              0
+            ],
+            [
+              -1.3958498093,
+              50.9346336103,
+              0
+            ],
+            [
+              -1.3958612179,
+              50.9346370071,
+              0
+            ],
+            [
+              -1.3958725367,
+              50.934640517,
+              0
+            ],
+            [
+              -1.3958812504,
+              50.9346285152,
+              0
+            ],
+            [
+              -1.3959408087,
+              50.9346449894,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "2A (Polygon)",
+        "styleUrl": "#stylep14",
+        "styleHash": "314cf6e6",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395854131,
+          50.934697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2B",
+        "styleUrl": "#style17",
+        "styleHash": "258a23b7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3959085592,
+              50.9346897698,
+              0
+            ],
+            [
+              -1.3958816097,
+              50.934727417,
+              0
+            ],
+            [
+              -1.3957992342,
+              50.934704206,
+              0
+            ],
+            [
+              -1.3958052529,
+              50.9346966765,
+              0
+            ],
+            [
+              -1.3958269023,
+              50.9346665021,
+              0
+            ],
+            [
+              -1.3959085592,
+              50.9346897698,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "2B (Polygon)",
+        "styleUrl": "#stylep16",
+        "styleHash": "7e934be8",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395833166,
+          50.93472612,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2C",
+        "styleUrl": "#style19",
+        "styleHash": "-1e0aa48b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3958816097,
+              50.934727417,
+              0
+            ],
+            [
+              -1.3958666078,
+              50.9347480805,
+              0
+            ],
+            [
+              -1.3957851306,
+              50.9347248128,
+              0
+            ],
+            [
+              -1.3957917782,
+              50.934714566,
+              0
+            ],
+            [
+              -1.3957992342,
+              50.934704206,
+              0
+            ],
+            [
+              -1.3958816097,
+              50.934727417,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "2C (Polygon)",
+        "styleUrl": "#stylep18",
+        "styleHash": "-34265f16",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395565611,
+          50.93489609,
+          0
+        ]
+      },
+      "properties": {
+        "name": "2D",
+        "styleUrl": "#style183",
+        "styleHash": "-2a1ec783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395618044,
+              50.9348863841,
+              0
+            ],
+            [
+              -1.3955891182,
+              50.9349272014,
+              0
+            ],
+            [
+              -1.3955132106,
+              50.9349058021,
+              0
+            ],
+            [
+              -1.3955420465,
+              50.9348649847,
+              0
+            ],
+            [
+              -1.395618044,
+              50.9348863841,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "2D (Polygon)",
+        "styleUrl": "#stylep182",
+        "styleHash": "-7d528de6",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395535053,
+          50.9349392,
+          0
+        ]
+      },
+      "properties": {
+        "name": "36 / 2043",
+        "styleUrl": "#style181",
+        "styleHash": "197600bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3955891182,
+              50.9349272014,
+              0
+            ],
+            [
+              -1.3955569586,
+              50.9349726043,
+              0
+            ],
+            [
+              -1.3954810509,
+              50.9349512049,
+              0
+            ],
+            [
+              -1.3954938968,
+              50.9349328626,
+              0
+            ],
+            [
+              -1.3955132106,
+              50.9349058021,
+              0
+            ],
+            [
+              -1.3955891182,
+              50.9349272014,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "36 / 2043 (Polygon)",
+        "styleUrl": "#stylep180",
+        "styleHash": "35671d18",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39571701,
+          50.93467248,
+          0
+        ]
+      },
+      "properties": {
+        "name": "36/2055",
+        "styleUrl": "#style4",
+        "styleHash": "-526f584b",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3957814476,
+              50.934656878,
+              0
+            ],
+            [
+              -1.3957498269,
+              50.9347009791,
+              0
+            ],
+            [
+              -1.3957410234,
+              50.9347132639,
+              0
+            ],
+            [
+              -1.3956525393,
+              50.9346880714,
+              0
+            ],
+            [
+              -1.3956930533,
+              50.9346316855,
+              0
+            ],
+            [
+              -1.3957814476,
+              50.934656878,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "36/2055 (Polygon)",
+        "styleUrl": "#stylep3",
+        "styleHash": "7f5ca4e2",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39575458,
+          50.93462019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "36/2057",
+        "styleUrl": "#style6",
+        "styleHash": "69fbdf73",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3958161225,
+              50.9346087009,
+              0
+            ],
+            [
+              -1.3958065105,
+              50.9346220048,
+              0
+            ],
+            [
+              -1.3957814476,
+              50.934656878,
+              0
+            ],
+            [
+              -1.3956930533,
+              50.9346316855,
+              0
+            ],
+            [
+              -1.3957277283,
+              50.9345835083,
+              0
+            ],
+            [
+              -1.3958161225,
+              50.9346087009,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "36/2057 (Polygon)",
+        "styleUrl": "#stylep5",
+        "styleHash": "-335d061c",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395813855,
+          50.93454109,
+          0
+        ]
+      },
+      "properties": {
+        "name": "36/2061",
+        "styleUrl": "#style8",
+        "styleHash": "26671731",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3958845741,
+              50.93451897,
+              0
+            ],
+            [
+              -1.3958349871,
+              50.9345909812,
+              0
+            ],
+            [
+              -1.3958256447,
+              50.9345880939,
+              0
+            ],
+            [
+              -1.3957424607,
+              50.9345629014,
+              0
+            ],
+            [
+              -1.3957937545,
+              50.9344911733,
+              0
+            ],
+            [
+              -1.3958845741,
+              50.93451897,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "36/2061 (Polygon)",
+        "styleUrl": "#stylep7",
+        "styleHash": "19e94ee6",
+        "description": "CLS Public Workstation (Open Access: NON-BOOKABLE)",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395948305,
+          50.93459986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "36/2065",
+        "styleUrl": "#style10",
+        "styleHash": "1212e09e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3960452827,
+              50.9345901886,
+              0
+            ],
+            [
+              -1.3959915635,
+              50.9346589727,
+              0
+            ],
+            [
+              -1.3959408087,
+              50.9346449894,
+              0
+            ],
+            [
+              -1.3958812504,
+              50.9346285152,
+              0
+            ],
+            [
+              -1.3958725367,
+              50.934640517,
+              0
+            ],
+            [
+              -1.3958498093,
+              50.9346336103,
+              0
+            ],
+            [
+              -1.3958548399,
+              50.9346269867,
+              0
+            ],
+            [
+              -1.3959219441,
+              50.9345305756,
+              0
+            ],
+            [
+              -1.3959780888,
+              50.934547899,
+              0
+            ],
+            [
+              -1.3959661412,
+              50.9345635807,
+              0
+            ],
+            [
+              -1.3960452827,
+              50.9345901886,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "36/2065 (Polygon)",
+        "styleUrl": "#stylep9",
+        "styleHash": "672fa3e8",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39518407,
+          50.93477218,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abstracting and Indexing Periodicals",
+        "styleUrl": "#style21",
+        "styleHash": "-2739a382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951838811038,
+              50.93480179109,
+              0
+            ],
+            [
+              -1.3952277248661,
+              50.934739995103,
+              0
+            ],
+            [
+              -1.3951843524067,
+              50.934727773582,
+              0
+            ],
+            [
+              -1.3951405086445,
+              50.934789569585,
+              0
+            ],
+            [
+              -1.3951838811038,
+              50.93480179109,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Abstracting and Indexing Periodicals (Polygon)",
+        "styleUrl": "#stylep20",
+        "styleHash": "44827281",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395156,
+          50.934986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Assistive Technology Service",
+        "styleUrl": "#style13",
+        "styleHash": "3bf51572",
+        "description": "\n                \n                    Homepage\n                \n            "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395614783,
+          50.9348156,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Assistive Technology Service",
+        "styleUrl": "#style185",
+        "styleHash": "-6db38fc5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3957005992,
+              50.9347698762,
+              0
+            ],
+            [
+              -1.395618044,
+              50.9348863841,
+              0
+            ],
+            [
+              -1.3955420465,
+              50.9348649847,
+              0
+            ],
+            [
+              -1.3955289311,
+              50.9348613049,
+              0
+            ],
+            [
+              -1.3956115761,
+              50.934744797,
+              0
+            ],
+            [
+              -1.3957005992,
+              50.9347698762,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Assistive Technology Service (Polygon)",
+        "styleUrl": "#stylep184",
+        "styleHash": "-300c38e4",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395431252,
+          50.93481101,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Atlas Stand",
+        "styleUrl": "#style23",
+        "styleHash": "-6ace6bc4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395426265433,
+              50.934835284844,
+              0
+            ],
+            [
+              -1.3954638501302,
+              50.934781574258,
+              0
+            ],
+            [
+              -1.3954387317139,
+              50.93477459344,
+              0
+            ],
+            [
+              -1.3954011470167,
+              50.934828304034,
+              0
+            ],
+            [
+              -1.395426265433,
+              50.934835284844,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Atlas Stand (Polygon)",
+        "styleUrl": "#stylep22",
+        "styleHash": "-6e37387d",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395848007,
+          50.93498526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "B",
+        "styleUrl": "#style25",
+        "styleHash": "519ccbfa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3958356840545,
+              50.934917388108,
+              0
+            ],
+            [
+              -1.3957352571386,
+              50.93504652371,
+              0
+            ],
+            [
+              -1.3958664912592,
+              50.935087056779,
+              0
+            ],
+            [
+              -1.395966918175,
+              50.93495792129,
+              0
+            ],
+            [
+              -1.3958356840545,
+              50.934917388108,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "B (Polygon)",
+        "styleUrl": "#stylep24",
+        "styleHash": "-20f0e37b",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395712978,
+          50.93520705,
+          0
+        ]
+      },
+      "properties": {
+        "name": "B - BJ",
+        "styleUrl": "#style27",
+        "styleHash": "e0803b8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3957454891847,
+              50.935253394788,
+              0
+            ],
+            [
+              -1.3958023646422,
+              50.935180099149,
+              0
+            ],
+            [
+              -1.3956642116155,
+              50.93513752336,
+              0
+            ],
+            [
+              -1.395607336158,
+              50.935210819067,
+              0
+            ],
+            [
+              -1.3957454891847,
+              50.935253394788,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "B - BJ (Polygon)",
+        "styleUrl": "#stylep26",
+        "styleHash": "2c557187",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394943748,
+          50.93513512,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BF",
+        "styleUrl": "#style29",
+        "styleHash": "-358cc48a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950767624264,
+              50.935179449174,
+              0
+            ],
+            [
+              -1.3950864153424,
+              50.935164891347,
+              0
+            ],
+            [
+              -1.3947437432755,
+              50.935068414111,
+              0
+            ],
+            [
+              -1.3947350577384,
+              50.935083412224,
+              0
+            ],
+            [
+              -1.3950767624264,
+              50.935179449174,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BF (Polygon)",
+        "styleUrl": "#stylep28",
+        "styleHash": "799bc689",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39467602,
+          50.9352962,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BL - BX",
+        "styleUrl": "#style31",
+        "styleHash": "-3ebbc381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.394784901108,
+              50.935340023554,
+              0
+            ],
+            [
+              -1.3948028325913,
+              50.935314368659,
+              0
+            ],
+            [
+              -1.3945605152499,
+              50.935249315112,
+              0
+            ],
+            [
+              -1.3945590613458,
+              50.935254201766,
+              0
+            ],
+            [
+              -1.3945639076927,
+              50.935279245863,
+              0
+            ],
+            [
+              -1.394784901108,
+              50.935340023554,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BL - BX (Polygon)",
+        "styleUrl": "#stylep30",
+        "styleHash": "-dbb67e0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394777613,
+          50.93520562,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Books K",
+        "styleUrl": "#style33",
+        "styleHash": "7daf743d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950022747251,
+              50.935284706613,
+              0
+            ],
+            [
+              -1.395014176064,
+              50.935267889028,
+              0
+            ],
+            [
+              -1.3947668610637,
+              50.935198380685,
+              0
+            ],
+            [
+              -1.3947767136996,
+              50.935184458063,
+              0
+            ],
+            [
+              -1.3946300127111,
+              50.935143227415,
+              0
+            ],
+            [
+              -1.3946169570748,
+              50.935161676168,
+              0
+            ],
+            [
+              -1.3945989713244,
+              50.935156621231,
+              0
+            ],
+            [
+              -1.3945902729861,
+              50.935168912739,
+              0
+            ],
+            [
+              -1.3950022747251,
+              50.935284706613,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Books K (Polygon)",
+        "styleUrl": "#stylep32",
+        "styleHash": "3f8aed22",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394823775,
+          50.93516816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Children's Fiction C, F, C",
+        "styleUrl": "#style35",
+        "styleHash": "3a1aabfb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39479,
+              50.93515,
+              0
+            ],
+            [
+              -1.394693,
+              50.935124,
+              0
+            ],
+            [
+              -1.394684,
+              50.935138,
+              0
+            ],
+            [
+              -1.394657,
+              50.935148,
+              0
+            ],
+            [
+              -1.394775,
+              50.935179,
+              0
+            ],
+            [
+              -1.39479,
+              50.93515,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Children's Fiction C, F, C (Polygon)",
+        "styleUrl": "#stylep34",
+        "styleHash": "-732ebddc",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395333608,
+          50.93480796,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cope Collection",
+        "styleUrl": "#style37",
+        "styleHash": "-97a1c47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39534261531,
+              50.934766066381,
+              0
+            ],
+            [
+              -1.3952758333884,
+              50.934858028616,
+              0
+            ],
+            [
+              -1.3953200958708,
+              50.934870794392,
+              0
+            ],
+            [
+              -1.3953868777924,
+              50.934778832183,
+              0
+            ],
+            [
+              -1.39534261531,
+              50.934766066381,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cope Collection (Polygon)",
+        "styleUrl": "#stylep36",
+        "styleHash": "-25e868da",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394823775,
+          50.93516816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E, E pamphlets and quartos",
+        "styleUrl": "#style39",
+        "styleHash": "-4d0ee489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395051,
+              50.935221,
+              0
+            ],
+            [
+              -1.395063,
+              50.935203,
+              0
+            ],
+            [
+              -1.394722,
+              50.935109,
+              0
+            ],
+            [
+              -1.394708,
+              50.935128,
+              0
+            ],
+            [
+              -1.395051,
+              50.935221,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "E, E pamphlets and quartos (Polygon)",
+        "styleUrl": "#stylep38",
+        "styleHash": "275dec28",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395453554,
+          50.93496667,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E-F",
+        "styleUrl": "#style41",
+        "styleHash": "-563de380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3954653288281,
+              50.93499884282,
+              0
+            ],
+            [
+              -1.3955082663483,
+              50.934939047124,
+              0
+            ],
+            [
+              -1.3954358915672,
+              50.934918406905,
+              0
+            ],
+            [
+              -1.395392954047,
+              50.934978202627,
+              0
+            ],
+            [
+              -1.3954653288281,
+              50.93499884282,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "E-F (Polygon)",
+        "styleUrl": "#stylep40",
+        "styleHash": "-5ff94241",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395527389,
+          50.93507526,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ECS Sessional Loans",
+        "styleUrl": "#style43",
+        "styleHash": "662d543e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395677086,
+          50.93486921,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ECS Sessional Loans",
+        "styleUrl": "#style45",
+        "styleHash": "22988bfc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39555066755,
+              50.935055327698,
+              0
+            ],
+            [
+              -1.3955335098172,
+              50.935049190692,
+              0
+            ],
+            [
+              -1.3954922385142,
+              50.935105884901,
+              0
+            ],
+            [
+              -1.3955098599694,
+              50.935110560709,
+              0
+            ],
+            [
+              -1.39555066755,
+              50.935055327698,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ECS Sessional Loans (Polygon)",
+        "styleUrl": "#stylep42",
+        "styleHash": "-12b2ed3f",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3956599758853,
+              50.934904396768,
+              0
+            ],
+            [
+              -1.3957206705832,
+              50.934821661031,
+              0
+            ],
+            [
+              -1.3957027520286,
+              50.934816440405,
+              0
+            ],
+            [
+              -1.3956420573307,
+              50.934899176151,
+              0
+            ],
+            [
+              -1.3956599758853,
+              50.934904396768,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ECS Sessional Loans (Polygon)",
+        "styleUrl": "#stylep44",
+        "styleHash": "3a9367c3",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394823775,
+          50.93516816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Education, Education pamphlets and quartos (001-999)",
+        "styleUrl": "#style47",
+        "styleHash": "-20fc3c46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395032,
+              50.935248,
+              0
+            ],
+            [
+              -1.395051,
+              50.935221,
+              0
+            ],
+            [
+              -1.39479,
+              50.93515,
+              0
+            ],
+            [
+              -1.394775,
+              50.935179,
+              0
+            ],
+            [
+              -1.395032,
+              50.935248,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Education, Education pamphlets and quartos (001-999) (Polygon)",
+        "styleUrl": "#stylep46",
+        "styleHash": "-7826433b",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394865306,
+          50.93513962,
+          0
+        ]
+      },
+      "properties": {
+        "name": "European Documentation Centre",
+        "styleUrl": "#style49",
+        "styleHash": "-64910488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950533556027,
+              50.935212525027,
+              0
+            ],
+            [
+              -1.3950767624264,
+              50.935179449174,
+              0
+            ],
+            [
+              -1.3947350577384,
+              50.935083412224,
+              0
+            ],
+            [
+              -1.3947296727567,
+              50.935091021683,
+              0
+            ],
+            [
+              -1.3947134779498,
+              50.935086470088,
+              0
+            ],
+            [
+              -1.3946954561078,
+              50.935111936552,
+              0
+            ],
+            [
+              -1.3950533556027,
+              50.935212525027,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "European Documentation Centre (Polygon)",
+        "styleUrl": "#stylep48",
+        "styleHash": "-2adfee39",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395186651,
+          50.93501287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Folio and Double Folio",
+        "styleUrl": "#style51",
+        "styleHash": "-6dc0037f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951617885886,
+              50.93505634879,
+              0
+            ],
+            [
+              -1.3952027407271,
+              50.935002898374,
+              0
+            ],
+            [
+              -1.3952364523464,
+              50.934958898181,
+              0
+            ],
+            [
+              -1.3952159003981,
+              50.934952644472,
+              0
+            ],
+            [
+              -1.3951412366404,
+              50.935050095094,
+              0
+            ],
+            [
+              -1.3951617885886,
+              50.93505634879,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Folio and Double Folio (Polygon)",
+        "styleUrl": "#stylep50",
+        "styleHash": "4dc8e35e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394789204,
+          50.93516309,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ford Collection",
+        "styleUrl": "#style53",
+        "styleHash": "4eab343f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950240286998,
+              50.935253966426,
+              0
+            ],
+            [
+              -1.3950533556027,
+              50.935212525027,
+              0
+            ],
+            [
+              -1.3946954561078,
+              50.935111936552,
+              0
+            ],
+            [
+              -1.3946929500898,
+              50.935115477777,
+              0
+            ],
+            [
+              -1.3946788690735,
+              50.935111520271,
+              0
+            ],
+            [
+              -1.3946693324975,
+              50.935124996294,
+              0
+            ],
+            [
+              -1.39464729702,
+              50.935118803167,
+              0
+            ],
+            [
+              -1.3946300127111,
+              50.935143227415,
+              0
+            ],
+            [
+              -1.3947767136996,
+              50.935184458063,
+              0
+            ],
+            [
+              -1.3950240286998,
+              50.935253966426,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ford Collection (Polygon)",
+        "styleUrl": "#stylep52",
+        "styleHash": "-64f0c7a0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394954064,
+          50.93512035,
+          0
+        ]
+      },
+      "properties": {
+        "name": "G",
+        "styleUrl": "#style55",
+        "styleHash": "b166bfd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950864153424,
+              50.935164891347,
+              0
+            ],
+            [
+              -1.3950988761448,
+              50.935149746678,
+              0
+            ],
+            [
+              -1.394754868992,
+              50.935053830325,
+              0
+            ],
+            [
+              -1.3947437432755,
+              50.935068414111,
+              0
+            ],
+            [
+              -1.3950864153424,
+              50.935164891347,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "G (Polygon)",
+        "styleUrl": "#stylep54",
+        "styleHash": "-17aa729e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958,
+          50.93489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gender Neutral Toilet B36-A",
+        "styleUrl": "#style189",
+        "styleHash": "6615e356",
+        "description": "Non-gendered self-contained toilet cubicle, with sink basin and sanitary\n                bin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3958,
+          50.93489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gender Neutral Toilet B36-B",
+        "styleUrl": "#style190",
+        "styleHash": "60e7236c",
+        "description": "Non-gendered self-contained toilet cubicle, with sink basin and sanitary\n                bin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394947733,
+          50.93509309,
+          0
+        ]
+      },
+      "properties": {
+        "name": "H",
+        "styleUrl": "#style57",
+        "styleHash": "-387e5c45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394989535,
+          50.93504472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "H",
+        "styleUrl": "#style59",
+        "styleHash": "-7c132487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950988761448,
+              50.935149746678,
+              0
+            ],
+            [
+              -1.3951082217467,
+              50.935135443375,
+              0
+            ],
+            [
+              -1.3949680377193,
+              50.935096179383,
+              0
+            ],
+            [
+              -1.3949773833211,
+              50.935084400179,
+              0
+            ],
+            [
+              -1.3947940315139,
+              50.935033076469,
+              0
+            ],
+            [
+              -1.3947815707115,
+              50.935042331568,
+              0
+            ],
+            [
+              -1.394754868992,
+              50.935053830325,
+              0
+            ],
+            [
+              -1.3950988761448,
+              50.935149746678,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "H (Polygon)",
+        "styleUrl": "#stylep56",
+        "styleHash": "359be264",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951419343854,
+              50.935063048939,
+              0
+            ],
+            [
+              -1.3948457311181,
+              50.934978340419,
+              0
+            ],
+            [
+              -1.3948199999955,
+              50.935012687623,
+              0
+            ],
+            [
+              -1.3948066491357,
+              50.93502390593,
+              0
+            ],
+            [
+              -1.3950064670033,
+              50.935079156052,
+              0
+            ],
+            [
+              -1.3950247131783,
+              50.93505475626,
+              0
+            ],
+            [
+              -1.3951288498843,
+              50.935082801997,
+              0
+            ],
+            [
+              -1.3951419343854,
+              50.935063048939,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "H (Polygon)",
+        "styleUrl": "#stylep58",
+        "styleHash": "-7d1dc89a",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395302569,
+          50.93496042,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HCF",
+        "styleUrl": "#style61",
+        "styleHash": "7abddc82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953162392136,
+              50.934972728774,
+              0
+            ],
+            [
+              -1.3953288236204,
+              50.934955594657,
+              0
+            ],
+            [
+              -1.3952820643951,
+              50.934941955165,
+              0
+            ],
+            [
+              -1.3952694799883,
+              50.934959089287,
+              0
+            ],
+            [
+              -1.3953162392136,
+              50.934972728774,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "HCF (Polygon)",
+        "styleUrl": "#stylep60",
+        "styleHash": "-474f703",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395290422,
+          50.93497696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HGT",
+        "styleUrl": "#style63",
+        "styleHash": "37291440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953043830946,
+              50.934988871295,
+              0
+            ],
+            [
+              -1.3953162392136,
+              50.934972728774,
+              0
+            ],
+            [
+              -1.3952694799883,
+              50.934959089287,
+              0
+            ],
+            [
+              -1.3952576238693,
+              50.934975231812,
+              0
+            ],
+            [
+              -1.3953043830946,
+              50.934988871295,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "HGT (Polygon)",
+        "styleUrl": "#stylep62",
+        "styleHash": "48d15dff",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395314895,
+          50.93494364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "HOS",
+        "styleUrl": "#style67",
+        "styleHash": "-50007c44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953288236204,
+              50.934955594657,
+              0
+            ],
+            [
+              -1.3953407615586,
+              50.934939340725,
+              0
+            ],
+            [
+              -1.3952940023333,
+              50.934925701228,
+              0
+            ],
+            [
+              -1.3952820643951,
+              50.934941955165,
+              0
+            ],
+            [
+              -1.3953288236204,
+              50.934955594657,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "HOS (Polygon)",
+        "styleUrl": "#stylep66",
+        "styleHash": "-1ca1f7fd",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39579,
+          50.93493,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hartley Library Microwave",
+        "styleUrl": "#style188",
+        "styleHash": "-6bf91978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395264291,
+          50.93490341,
+          0
+        ]
+      },
+      "properties": {
+        "name": "History Sources",
+        "styleUrl": "#style65",
+        "styleHash": "-c6bb402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952758333884,
+              50.934858028616,
+              0
+            ],
+            [
+              -1.3952027136772,
+              50.934958718112,
+              0
+            ],
+            [
+              -1.3952469761596,
+              50.934971483861,
+              0
+            ],
+            [
+              -1.3953200958708,
+              50.934870794392,
+              0
+            ],
+            [
+              -1.3952758333884,
+              50.934858028616,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "History Sources (Polygon)",
+        "styleUrl": "#stylep64",
+        "styleHash": "-69e84cff",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394681176,
+          50.9352579,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indexes, Law Ref z/k",
+        "styleUrl": "#style69",
+        "styleHash": "6c6abb7a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3947629940936,
+              50.935287242437,
+              0
+            ],
+            [
+              -1.3947723630243,
+              50.935274003357,
+              0
+            ],
+            [
+              -1.3945584491972,
+              50.93521388249,
+              0
+            ],
+            [
+              -1.3945490802666,
+              50.935227121587,
+              0
+            ],
+            [
+              -1.3947629940936,
+              50.935287242437,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Indexes, Law Ref z/k (Polygon)",
+        "styleUrl": "#stylep68",
+        "styleHash": "30a45d05",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395018797,
+          50.93499968,
+          0
+        ]
+      },
+      "properties": {
+        "name": "J",
+        "styleUrl": "#style71",
+        "styleHash": "633bbc83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951419343854,
+              50.935063048939,
+              0
+            ],
+            [
+              -1.3951755512116,
+              50.935016363877,
+              0
+            ],
+            [
+              -1.3949282809344,
+              50.934945649204,
+              0
+            ],
+            [
+              -1.3948793479444,
+              50.934931655272,
+              0
+            ],
+            [
+              -1.3948457311181,
+              50.934978340419,
+              0
+            ],
+            [
+              -1.3951419343854,
+              50.935063048939,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "J (Polygon)",
+        "styleUrl": "#stylep70",
+        "styleHash": "-56b2d164",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395933467,
+          50.93489492,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lattés",
+        "styleUrl": "#style12",
+        "styleHash": "-1900c3ae",
+        "description": "<p>A bright and modern area within the Hartley Library, the Lattes\n                Cafe Bar is a great place to study, catch up with friends or just have a nice quiet\n                read with a cappucino and a cake.</p><p><strong>Opening times will\n                be extended during busy periods, such as exams and revision periods.</strong>\n                </p><p>World famous Dowe Egberts coffee, is served in all our Lattes.\n                Smoothe Lattes, Cappucino, Americano and great Filter Coffee together with Fair\n                Trade tea, flavoured tea and cold refreshments are available.</p><p>We\n                also serve the popular paninis and toasted sandwiches, a large range of pre packed\n                sandwiches and filled rolls, wraps and salads.</p><p>A selection of\n                Fairtrade products and gluten free cakes are on sale, with a wide choice of\n                speciality handmade cakes, Danish pastries, croissants and pain au\n                chocolat.</p><p> </p><p>Main Site Assistant Catering\n                Operations Manager: <strong>Mrs Suzie Hurst</strong> - <a\n                target=\"_self\"\n                href=\"mailto:sbh@soton.ac.uk\">sbh@soton.ac.uk</a>\n                </p><p>Library Catering Supervisor:<strong>Mrs Lin\n                Treviss</strong> - <a target=\"_self\"\n                href=mailto:lct1d06@soton.ac.uk></a> </p>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.396038725,
+              50.9348930077,
+              0
+            ],
+            [
+              -1.3959928211,
+              50.9349573756,
+              0
+            ],
+            [
+              -1.395965153,
+              50.9349495632,
+              0
+            ],
+            [
+              -1.3958200751,
+              50.934908576,
+              0
+            ],
+            [
+              -1.3958657994,
+              50.9348444911,
+              0
+            ],
+            [
+              -1.3958878979,
+              50.9348506618,
+              0
+            ],
+            [
+              -1.395893737,
+              50.9348426795,
+              0
+            ],
+            [
+              -1.3958989472,
+              50.9348352633,
+              0
+            ],
+            [
+              -1.3960255198,
+              50.9348710988,
+              0
+            ],
+            [
+              -1.3960148299,
+              50.9348862143,
+              0
+            ],
+            [
+              -1.396038725,
+              50.9348930077,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lattés (Polygon)",
+        "styleUrl": "#stylep11",
+        "styleHash": "-429c889d",
+        "description": "<p>A bright and modern area within the Hartley Library, the Lattes\n                Cafe Bar is a great place to study, catch up with friends or just have a nice quiet\n                read with a cappucino and a cake.</p><p><strong>Opening times will\n                be extended during busy periods, such as exams and revision periods.</strong>\n                </p><p>World famous Dowe Egberts coffee, is served in all our Lattes.\n                Smoothe Lattes, Cappucino, Americano and great Filter Coffee together with Fair\n                Trade tea, flavoured tea and cold refreshments are available.</p><p>We\n                also serve the popular paninis and toasted sandwiches, a large range of pre packed\n                sandwiches and filled rolls, wraps and salads.</p><p>A selection of\n                Fairtrade products and gluten free cakes are on sale, with a wide choice of\n                speciality handmade cakes, Danish pastries, croissants and pain au\n                chocolat.</p><p> </p><p>Main Site Assistant Catering\n                Operations Manager: <strong>Mrs Suzie Hurst</strong> - <a\n                target=\"_self\"\n                href=\"mailto:sbh@soton.ac.uk\">sbh@soton.ac.uk</a>\n                </p><p>Library Catering Supervisor:<strong>Mrs Lin\n                Treviss</strong> - <a target=\"_self\"\n                href=mailto:lct1d06@soton.ac.uk></a> </p>",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394789528,
+          50.93531167,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Law Reports: England",
+        "styleUrl": "#style73",
+        "styleHash": "1fa6f441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3949455317786,
+              50.935367780987,
+              0
+            ],
+            [
+              -1.3949610820056,
+              50.935342915316,
+              0
+            ],
+            [
+              -1.3947629940936,
+              50.935287242437,
+              0
+            ],
+            [
+              -1.3945490802666,
+              50.935227121587,
+              0
+            ],
+            [
+              -1.3945314530077,
+              50.935252030395,
+              0
+            ],
+            [
+              -1.3948310249733,
+              50.935336836278,
+              0
+            ],
+            [
+              -1.3949455317786,
+              50.935367780987,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Law Reports: England (Polygon)",
+        "styleUrl": "#stylep72",
+        "styleHash": "-96c7c62",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394794992,
+          50.93528231,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Law Reports: other jurisdictions",
+        "styleUrl": "#style75",
+        "styleHash": "-23edd401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3949610820056,
+              50.935342915316,
+              0
+            ],
+            [
+              -1.3949804890096,
+              50.935315491631,
+              0
+            ],
+            [
+              -1.3945684872705,
+              50.935199697834,
+              0
+            ],
+            [
+              -1.3945584491972,
+              50.93521388249,
+              0
+            ],
+            [
+              -1.3947723630243,
+              50.935274003357,
+              0
+            ],
+            [
+              -1.3947629940936,
+              50.935287242437,
+              0
+            ],
+            [
+              -1.3949610820056,
+              50.935342915316,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Law Reports: other jurisdictions (Polygon)",
+        "styleUrl": "#stylep74",
+        "styleHash": "43d9d8a0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39531,
+          50.93504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Library (inc. blds 10 12 & 14)",
+        "styleUrl": "#style2",
+        "styleHash": "-eda9009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39604528274927,
+              50.9345901885781,
+              0
+            ],
+            [
+              -1.39599156349528,
+              50.9346589726837,
+              0
+            ],
+            [
+              -1.39594080868172,
+              50.9346449894211,
+              0
+            ],
+            [
+              -1.39590855916302,
+              50.9346897698141,
+              0
+            ],
+            [
+              -1.3958816097045,
+              50.9347274170138,
+              0
+            ],
+            [
+              -1.39586660783926,
+              50.9347480805014,
+              0
+            ],
+            [
+              -1.39585573822432,
+              50.9347642149991,
+              0
+            ],
+            [
+              -1.39586930278511,
+              50.9347684609186,
+              0
+            ],
+            [
+              -1.39586247558895,
+              50.9347781982259,
+              0
+            ],
+            [
+              -1.39585115681637,
+              50.934796087692,
+              0
+            ],
+            [
+              -1.39583947871767,
+              50.9348106936435,
+              0
+            ],
+            [
+              -1.39582393786326,
+              50.9348326025621,
+              0
+            ],
+            [
+              -1.3958657993555,
+              50.9348444911183,
+              0
+            ],
+            [
+              -1.39588789791149,
+              50.9348506618438,
+              0
+            ],
+            [
+              -1.39589373696084,
+              50.9348426795289,
+              0
+            ],
+            [
+              -1.39589894718948,
+              50.9348352633345,
+              0
+            ],
+            [
+              -1.39602551981302,
+              50.9348710988282,
+              0
+            ],
+            [
+              -1.39601482986114,
+              50.9348862142651,
+              0
+            ],
+            [
+              -1.39603872504769,
+              50.9348930077183,
+              0
+            ],
+            [
+              -1.39599282113667,
+              50.9349573756381,
+              0
+            ],
+            [
+              -1.39596515302592,
+              50.9349495631777,
+              0
+            ],
+            [
+              -1.39594035952408,
+              50.9349839832835,
+              0
+            ],
+            [
+              -1.39587684863349,
+              50.9350725809714,
+              0
+            ],
+            [
+              -1.39589535392835,
+              50.9350782987717,
+              0
+            ],
+            [
+              -1.39591367956014,
+              50.9350839033475,
+              0
+            ],
+            [
+              -1.39587082992109,
+              50.935141817258,
+              0
+            ],
+            [
+              -1.39585259412082,
+              50.93513717509,
+              0
+            ],
+            [
+              -1.39583328034221,
+              50.9351321932505,
+              0
+            ],
+            [
+              -1.39578531030604,
+              50.9351950889342,
+              0
+            ],
+            [
+              -1.395767793158,
+              50.9352180166824,
+              0
+            ],
+            [
+              -1.39573644195459,
+              50.9352591167659,
+              0
+            ],
+            [
+              -1.39576168461407,
+              50.9352677783491,
+              0
+            ],
+            [
+              -1.39571640952375,
+              50.9353311833535,
+              0
+            ],
+            [
+              -1.39568954989676,
+              50.9353229746748,
+              0
+            ],
+            [
+              -1.39567589550444,
+              50.9353401845927,
+              0
+            ],
+            [
+              -1.39555390428885,
+              50.9353042928488,
+              0
+            ],
+            [
+              -1.39556423491462,
+              50.9352881019269,
+              0
+            ],
+            [
+              -1.39552246325391,
+              50.9352759870376,
+              0
+            ],
+            [
+              -1.39549973587722,
+              50.93527021265,
+              0
+            ],
+            [
+              -1.39545823371109,
+              50.9353263713696,
+              0
+            ],
+            [
+              -1.39544359117196,
+              50.9353224651705,
+              0
+            ],
+            [
+              -1.39543433852454,
+              50.9353359953369,
+              0
+            ],
+            [
+              -1.39538376337404,
+              50.9354091940349,
+              0
+            ],
+            [
+              -1.39535519694801,
+              50.9354470104865,
+              0
+            ],
+            [
+              -1.39540595176156,
+              50.9354624654048,
+              0
+            ],
+            [
+              -1.39535250200215,
+              50.9355326068921,
+              0
+            ],
+            [
+              -1.39520383082263,
+              50.9354900917659,
+              0
+            ],
+            [
+              -1.39519385952298,
+              50.9355056032812,
+              0
+            ],
+            [
+              -1.39507177847587,
+              50.9354701645562,
+              0
+            ],
+            [
+              -1.39520850206211,
+              50.9352832899385,
+              0
+            ],
+            [
+              -1.39510672294042,
+              50.9352530027062,
+              0
+            ],
+            [
+              -1.3949830249258,
+              50.9354266869782,
+              0
+            ],
+            [
+              -1.3947857548894,
+              50.935373585402,
+              0
+            ],
+            [
+              -1.39477569375822,
+              50.9353875684455,
+              0
+            ],
+            [
+              -1.39453665206112,
+              50.9353282961632,
+              0
+            ],
+            [
+              -1.3945198535653,
+              50.9353019151613,
+              0
+            ],
+            [
+              -1.39450979243412,
+              50.9352758172027,
+              0
+            ],
+            [
+              -1.39450215675421,
+              50.9352519836962,
+              0
+            ],
+            [
+              -1.39450440254242,
+              50.9352263952148,
+              0
+            ],
+            [
+              -1.3945113195701,
+              50.9352006934959,
+              0
+            ],
+            [
+              -1.39452281800574,
+              50.9351745954804,
+              0
+            ],
+            [
+              -1.39454204195282,
+              50.9351488937329,
+              0
+            ],
+            [
+              -1.39456890157982,
+              50.9351217766755,
+              0
+            ],
+            [
+              -1.39461354784944,
+              50.9350942067074,
+              0
+            ],
+            [
+              -1.3946659196305,
+              50.9350685615273,
+              0
+            ],
+            [
+              -1.39472889153192,
+              50.9350294993053,
+              0
+            ],
+            [
+              -1.39479572618906,
+              50.9349705662387,
+              0
+            ],
+            [
+              -1.39484414538287,
+              50.9349158790035,
+              0
+            ],
+            [
+              -1.39487405928183,
+              50.9349213137626,
+              0
+            ],
+            [
+              -1.39508309724845,
+              50.9346354785356,
+              0
+            ],
+            [
+              -1.39514535049764,
+              50.9346548965914,
+              0
+            ],
+            [
+              -1.39514939291641,
+              50.9346505940491,
+              0
+            ],
+            [
+              -1.39548994424062,
+              50.9347483069506,
+              0
+            ],
+            [
+              -1.39538133792277,
+              50.9348991784374,
+              0
+            ],
+            [
+              -1.39549389682787,
+              50.9349328626238,
+              0
+            ],
+            [
+              -1.39551321060648,
+              50.9349058020525,
+              0
+            ],
+            [
+              -1.3955420465271,
+              50.9348649847174,
+              0
+            ],
+            [
+              -1.39552893112395,
+              50.9348613049282,
+              0
+            ],
+            [
+              -1.39561157613009,
+              50.9347447969889,
+              0
+            ],
+            [
+              -1.39565253930705,
+              50.9346880714435,
+              0
+            ],
+            [
+              -1.39569305332636,
+              50.9346316855034,
+              0
+            ],
+            [
+              -1.39572772829633,
+              50.9345835083056,
+              0
+            ],
+            [
+              -1.39574246066699,
+              50.9345629013573,
+              0
+            ],
+            [
+              -1.39579375446971,
+              50.9344911732547,
+              0
+            ],
+            [
+              -1.39588457414494,
+              50.9345189700306,
+              0
+            ],
+            [
+              -1.39590352859743,
+              50.934524801124,
+              0
+            ],
+            [
+              -1.39592194406076,
+              50.9345305756042,
+              0
+            ],
+            [
+              -1.39597808876601,
+              50.9345478990404,
+              0
+            ],
+            [
+              -1.39596614117274,
+              50.9345635807074,
+              0
+            ],
+            [
+              -1.39604528274927,
+              50.9345901885781,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Library (inc. blds 10 12 & 14) (Polygon)",
+        "styleUrl": "#stylep1",
+        "styleHash": "32164fe0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395234853,
+          50.93502542,
+          0
+        ]
+      },
+      "properties": {
+        "name": "ML - M mM, pM, M",
+        "styleUrl": "#style77",
+        "styleHash": "-67829c43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952326476243,
+              50.935077910285,
+              0
+            ],
+            [
+              -1.395307311382,
+              50.934980459721,
+              0
+            ],
+            [
+              -1.3952702736109,
+              50.93496918958,
+              0
+            ],
+            [
+              -1.3952365619916,
+              50.935013189763,
+              0
+            ],
+            [
+              -1.3952027407271,
+              50.935002898374,
+              0
+            ],
+            [
+              -1.3951617885886,
+              50.93505634879,
+              0
+            ],
+            [
+              -1.3952326476243,
+              50.935077910285,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ML - M mM, pM, M (Polygon)",
+        "styleUrl": "#stylep76",
+        "styleHash": "-6edfd25e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3959,
+          50.9351,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Main",
+        "styleUrl": "#style191",
+        "styleHash": "1f3e0c0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394716374,
+          50.93527454,
+          0
+        ]
+      },
+      "properties": {
+        "name": "N - NX",
+        "styleUrl": "#style79",
+        "styleHash": "54e89b7b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3948028325913,
+              50.935314368659,
+              0
+            ],
+            [
+              -1.3948285182295,
+              50.935279551279,
+              0
+            ],
+            [
+              -1.3945871701574,
+              50.935215108515,
+              0
+            ],
+            [
+              -1.3945605152499,
+              50.935249315112,
+              0
+            ],
+            [
+              -1.3948028325913,
+              50.935314368659,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "N - NX (Polygon)",
+        "styleUrl": "#stylep78",
+        "styleHash": "-21997d5c",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395282616,
+          50.93479995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Newspaper Indexes",
+        "styleUrl": "#style81",
+        "styleHash": "4bb99c84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395280680844,
+              50.934829067338,
+              0
+            ],
+            [
+              -1.3953245246062,
+              50.934767271388,
+              0
+            ],
+            [
+              -1.3952855184286,
+              50.934756280207,
+              0
+            ],
+            [
+              -1.3952416746663,
+              50.934818076173,
+              0
+            ],
+            [
+              -1.395280680844,
+              50.934829067338,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Newspaper Indexes (Polygon)",
+        "styleUrl": "#stylep80",
+        "styleHash": "570f543b",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394803237,
+          50.93526525,
+          0
+        ]
+      },
+      "properties": {
+        "name": "P - PM",
+        "styleUrl": "#style83",
+        "styleHash": "824d442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3948285182295,
+              50.935279551279,
+              0
+            ],
+            [
+              -1.3949802088852,
+              50.935320476969,
+              0
+            ],
+            [
+              -1.3949947479257,
+              50.935301541206,
+              0
+            ],
+            [
+              -1.3946002552939,
+              50.935195256461,
+              0
+            ],
+            [
+              -1.3945871701574,
+              50.935215108515,
+              0
+            ],
+            [
+              -1.3948285182295,
+              50.935279551279,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "P - PM (Polygon)",
+        "styleUrl": "#stylep82",
+        "styleHash": "-5baa56c3",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395288009,
+          50.93491799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PN",
+        "styleUrl": "#style133",
+        "styleHash": "4b6bd878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952309395852,
+              50.934933043374,
+              0
+            ],
+            [
+              -1.3953209561645,
+              50.93496085154,
+              0
+            ],
+            [
+              -1.3953739070936,
+              50.934895595017,
+              0
+            ],
+            [
+              -1.3952833021705,
+              50.934867416035,
+              0
+            ],
+            [
+              -1.3952309395852,
+              50.934933043374,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PN (Polygon)",
+        "styleUrl": "#stylep132",
+        "styleHash": "1de2b5ff",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395372495,
+          50.93483835,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PN - PQ",
+        "styleUrl": "#style135",
+        "styleHash": "7d71036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953809672174,
+              50.934885584064,
+              0
+            ],
+            [
+              -1.3954503917689,
+              50.934795856175,
+              0
+            ],
+            [
+              -1.3953597868458,
+              50.93476804791,
+              0
+            ],
+            [
+              -1.3952903622944,
+              50.934856663524,
+              0
+            ],
+            [
+              -1.3953809672174,
+              50.934885584064,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PN - PQ (Polygon)",
+        "styleUrl": "#stylep134",
+        "styleHash": "6b290b01",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395284714,
+          50.93481173,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PQ",
+        "styleUrl": "#style137",
+        "styleHash": "-3bbdb80c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395275653703,
+              50.934853326538,
+              0
+            ],
+            [
+              -1.3953456665981,
+              50.934763598586,
+              0
+            ],
+            [
+              -1.3952980107619,
+              50.934750250612,
+              0
+            ],
+            [
+              -1.3952285862105,
+              50.934838124707,
+              0
+            ],
+            [
+              -1.395275653703,
+              50.934853326538,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PQ (Polygon)",
+        "styleUrl": "#stylep136",
+        "styleHash": "-47909ffd",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395143276,
+          50.93498139,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PR - PQ",
+        "styleUrl": "#style139",
+        "styleHash": "-7f52804e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951550432535,
+              50.934936009579,
+              0
+            ],
+            [
+              -1.3950762052036,
+              50.935034635795,
+              0
+            ],
+            [
+              -1.3951279794453,
+              50.935050208336,
+              0
+            ],
+            [
+              -1.395202110746,
+              50.934950099051,
+              0
+            ],
+            [
+              -1.3951550432535,
+              50.934936009579,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PR - PQ (Polygon)",
+        "styleUrl": "#stylep138",
+        "styleHash": "5b5b505",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395089384,
+          50.93496545,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PR - PS",
+        "styleUrl": "#style141",
+        "styleHash": "777e80bb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951391579748,
+              50.934931560271,
+              0
+            ],
+            [
+              -1.395092678826,
+              50.93491598769,
+              0
+            ],
+            [
+              -1.3950138407761,
+              50.935017580149,
+              0
+            ],
+            [
+              -1.3950620849559,
+              50.935030557271,
+              0
+            ],
+            [
+              -1.3951391579748,
+              50.934931560271,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PR - PS (Polygon)",
+        "styleUrl": "#stylep140",
+        "styleHash": "7e5e869c",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395223056,
+          50.93479304,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PT",
+        "styleUrl": "#style143",
+        "styleHash": "33e9b879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952144659628,
+              50.934834787719,
+              0
+            ],
+            [
+              -1.3952844788579,
+              50.934745059732,
+              0
+            ],
+            [
+              -1.3952344696471,
+              50.934729857866,
+              0
+            ],
+            [
+              -1.3951673984703,
+              50.934820698212,
+              0
+            ],
+            [
+              -1.3952144659628,
+              50.934834787719,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PT (Polygon)",
+        "styleUrl": "#stylep142",
+        "styleHash": "-345b2462",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395539399,
+          50.93492877,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets C, D, E, F",
+        "styleUrl": "#style87",
+        "styleHash": "-7f04bc42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3955550719814,
+              50.934945067271,
+              0
+            ],
+            [
+              -1.3955729474704,
+              50.934921554822,
+              0
+            ],
+            [
+              -1.3955158892944,
+              50.93490432668,
+              0
+            ],
+            [
+              -1.3954980138054,
+              50.934927839138,
+              0
+            ],
+            [
+              -1.3955550719814,
+              50.934945067271,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets C, D, E, F (Polygon)",
+        "styleUrl": "#stylep86",
+        "styleHash": "3ee25341",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395327341,
+          50.93475124,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets and Quartos BF, G, H, J, Q, S, T, U, V, W",
+        "styleUrl": "#style85",
+        "styleHash": "-3b6ff400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3954095292483,
+              50.934793638423,
+              0
+            ],
+            [
+              -1.3954377318509,
+              50.934754472091,
+              0
+            ],
+            [
+              -1.3952040597043,
+              50.934687645856,
+              0
+            ],
+            [
+              -1.3951758571018,
+              50.934726812243,
+              0
+            ],
+            [
+              -1.3954095292483,
+              50.934793638423,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets and Quartos BF, G, H, J, Q, S, T, U, V, W (Polygon)",
+        "styleUrl": "#stylep84",
+        "styleHash": "-e6401c1",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39484393,
+          50.93524864,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets pBL - pBX, pN - pPM",
+        "styleUrl": "#style89",
+        "styleHash": "3d667b7c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3949947479257,
+              50.935301541206,
+              0
+            ],
+            [
+              -1.3950107408702,
+              50.935275580874,
+              0
+            ],
+            [
+              -1.3946191560465,
+              50.935169296069,
+              0
+            ],
+            [
+              -1.3946002552939,
+              50.935195256461,
+              0
+            ],
+            [
+              -1.3949947479257,
+              50.935301541206,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pamphlets pBL - pBX, pN - pPM (Polygon)",
+        "styleUrl": "#stylep88",
+        "styleHash": "-73d757bd",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395251532,
+          50.93483237,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Parkes Library",
+        "styleUrl": "#style91",
+        "styleHash": "34377c85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953283713579,
+              50.934760864304,
+              0
+            ],
+            [
+              -1.3952765429391,
+              50.934745956359,
+              0
+            ],
+            [
+              -1.3951362727416,
+              50.934939633517,
+              0
+            ],
+            [
+              -1.3951881011604,
+              50.9349545414,
+              0
+            ],
+            [
+              -1.3953283713579,
+              50.934760864304,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Parkes Library (Polygon)",
+        "styleUrl": "#stylep90",
+        "styleHash": "4d179da",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394904032,
+          50.93514179,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals A, B",
+        "styleUrl": "#style93",
+        "styleHash": "-f5d4bbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950625133121,
+              50.935202967765,
+              0
+            ],
+            [
+              -1.3950793363775,
+              50.935178638179,
+              0
+            ],
+            [
+              -1.3950424790295,
+              50.935168516556,
+              0
+            ],
+            [
+              -1.3949714865911,
+              50.935149020881,
+              0
+            ],
+            [
+              -1.3948645638664,
+              50.935119658151,
+              0
+            ],
+            [
+              -1.394756048358,
+              50.935089857997,
+              0
+            ],
+            [
+              -1.3947484619751,
+              50.935100829478,
+              0
+            ],
+            [
+              -1.3947310766786,
+              50.935096055187,
+              0
+            ],
+            [
+              -1.3947218399961,
+              50.935109413341,
+              0
+            ],
+            [
+              -1.3950625133121,
+              50.935202967765,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals A, B (Polygon)",
+        "styleUrl": "#stylep92",
+        "styleHash": "5217cedc",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394836752,
+          50.93508519,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals BF",
+        "styleUrl": "#style95",
+        "styleHash": "-52f213ff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3948905549813,
+              50.935082069621,
+              0
+            ],
+            [
+              -1.3947820394728,
+              50.935052269444,
+              0
+            ],
+            [
+              -1.394756048358,
+              50.935089857997,
+              0
+            ],
+            [
+              -1.3948645638664,
+              50.935119658151,
+              0
+            ],
+            [
+              -1.3948905549813,
+              50.935082069621,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals BF (Polygon)",
+        "styleUrl": "#stylep94",
+        "styleHash": "-60a1dc22",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394944973,
+          50.93511192,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals C - F",
+        "styleUrl": "#style97",
+        "styleHash": "697923bf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.394997477706,
+              50.935111432375,
+              0
+            ],
+            [
+              -1.394948277946,
+              50.935097921307,
+              0
+            ],
+            [
+              -1.3948905549813,
+              50.935082069621,
+              0
+            ],
+            [
+              -1.3948645638664,
+              50.935119658151,
+              0
+            ],
+            [
+              -1.3949714865911,
+              50.935149020881,
+              0
+            ],
+            [
+              -1.394997477706,
+              50.935111432375,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals C - F (Polygon)",
+        "styleUrl": "#stylep96",
+        "styleHash": "-135b8720",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395029677,
+          50.93513817,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals GV GG G",
+        "styleUrl": "#style99",
+        "styleHash": "25e45b7d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950684701444,
+              50.935130928066,
+              0
+            ],
+            [
+              -1.394997477706,
+              50.935111432375,
+              0
+            ],
+            [
+              -1.3949714865911,
+              50.935149020881,
+              0
+            ],
+            [
+              -1.3950424790295,
+              50.935168516556,
+              0
+            ],
+            [
+              -1.3950684701444,
+              50.935130928066,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals GV GG G (Polygon)",
+        "styleUrl": "#stylep98",
+        "styleHash": "39eacde2",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395075692,
+          50.93515527,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals H",
+        "styleUrl": "#style101",
+        "styleHash": "-2a78ff49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950793363775,
+              50.935178638179,
+              0
+            ],
+            [
+              -1.3951053274924,
+              50.935141049697,
+              0
+            ],
+            [
+              -1.3950791995822,
+              50.935133874545,
+              0
+            ],
+            [
+              -1.3950684701444,
+              50.935130928066,
+              0
+            ],
+            [
+              -1.3950424790295,
+              50.935168516556,
+              0
+            ],
+            [
+              -1.3950793363775,
+              50.935178638179,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals H (Polygon)",
+        "styleUrl": "#stylep100",
+        "styleHash": "-38aa0fe0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395030668,
+          50.93511696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals HA",
+        "styleUrl": "#style103",
+        "styleHash": "-6e0dc78b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950791995822,
+              50.935133874545,
+              0
+            ],
+            [
+              -1.3950864859926,
+              50.935123336895,
+              0
+            ],
+            [
+              -1.3949555643564,
+              50.935087383648,
+              0
+            ],
+            [
+              -1.394948277946,
+              50.935097921307,
+              0
+            ],
+            [
+              -1.394997477706,
+              50.935111432375,
+              0
+            ],
+            [
+              -1.3950684701444,
+              50.935130928066,
+              0
+            ],
+            [
+              -1.3950791995822,
+              50.935133874545,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals HA (Polygon)",
+        "styleUrl": "#stylep102",
+        "styleHash": "149c4522",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3950711,
+          50.93508331,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals HB - HX",
+        "styleUrl": "#style105",
+        "styleHash": "4e5d7033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950845114621,
+              50.935105531614,
+              0
+            ],
+            [
+              -1.3951115709115,
+              50.935066780027,
+              0
+            ],
+            [
+              -1.395050983459,
+              50.935049977684,
+              0
+            ],
+            [
+              -1.3950239240097,
+              50.935088729285,
+              0
+            ],
+            [
+              -1.3950845114621,
+              50.935105531614,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals HB - HX (Polygon)",
+        "styleUrl": "#stylep104",
+        "styleHash": "61e29a24",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394993563,
+          50.93505388,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals J",
+        "styleUrl": "#style107",
+        "styleHash": "ac8a7f1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950239240097,
+              50.935088729285,
+              0
+            ],
+            [
+              -1.395050983459,
+              50.935049977684,
+              0
+            ],
+            [
+              -1.3950309073134,
+              50.935044410089,
+              0
+            ],
+            [
+              -1.394983152615,
+              50.935031166569,
+              0
+            ],
+            [
+              -1.3949345536758,
+              50.935017688916,
+              0
+            ],
+            [
+              -1.3949074942264,
+              50.935056440544,
+              0
+            ],
+            [
+              -1.3950239240097,
+              50.935088729285,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals J (Polygon)",
+        "styleUrl": "#stylep106",
+        "styleHash": "-50d710da",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394824403,
+          50.93525686,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals K",
+        "styleUrl": "#style109",
+        "styleHash": "-38cc2051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3949804890096,
+              50.935315491631,
+              0
+            ],
+            [
+              -1.3950022747251,
+              50.935284706613,
+              0
+            ],
+            [
+              -1.3945902729861,
+              50.935168912739,
+              0
+            ],
+            [
+              -1.3945684872705,
+              50.935199697834,
+              0
+            ],
+            [
+              -1.3949804890096,
+              50.935315491631,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals K (Polygon)",
+        "styleUrl": "#stylep108",
+        "styleHash": "-390bbd8",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394902308,
+          50.93498314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals L",
+        "styleUrl": "#style111",
+        "styleHash": "-41fb1f48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -1.3949345536758,
+                  50.935017688916,
+                  0
+                ],
+                [
+                  -1.3948809992983,
+                  50.935002836997,
+                  0
+                ],
+                [
+                  -1.3948539398489,
+                  50.935041588638,
+                  0
+                ],
+                [
+                  -1.3949074942264,
+                  50.935056440544,
+                  0
+                ],
+                [
+                  -1.3949345536758,
+                  50.935017688916,
+                  0
+                ]
+              ]
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -1.3949678423122,
+                  50.934970016473,
+                  0
+                ],
+                [
+                  -1.3949142879347,
+                  50.934955164539,
+                  0
+                ],
+                [
+                  -1.3948809992983,
+                  50.935002836997,
+                  0
+                ],
+                [
+                  -1.3949345536758,
+                  50.935017688916,
+                  0
+                ],
+                [
+                  -1.3949678423122,
+                  50.934970016473,
+                  0
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "name": "Periodicals L (Polygon)",
+        "styleUrl": "#stylep110",
+        "styleHash": "751815bf",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394977029,
+          50.93500671,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals M - N",
+        "styleUrl": "#style113",
+        "styleHash": "7a701876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.394983152615,
+              50.935031166569,
+              0
+            ],
+            [
+              -1.3950164412514,
+              50.93498349414,
+              0
+            ],
+            [
+              -1.3949678423122,
+              50.934970016473,
+              0
+            ],
+            [
+              -1.3949345536758,
+              50.935017688916,
+              0
+            ],
+            [
+              -1.394983152615,
+              50.935031166569,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals M - N (Polygon)",
+        "styleUrl": "#stylep112",
+        "styleHash": "-3da1953f",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395025121,
+          50.93502004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals P",
+        "styleUrl": "#style115",
+        "styleHash": "36db5034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950309073134,
+              50.935044410089,
+              0
+            ],
+            [
+              -1.3950641959498,
+              50.934996737674,
+              0
+            ],
+            [
+              -1.3950164412514,
+              50.93498349414,
+              0
+            ],
+            [
+              -1.394983152615,
+              50.935031166569,
+              0
+            ],
+            [
+              -1.3950309073134,
+              50.935044410089,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals P (Polygon)",
+        "styleUrl": "#stylep114",
+        "styleHash": "fa4bfc3",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395085681,
+          50.93504063,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q",
+        "styleUrl": "#style117",
+        "styleHash": "-cb9780e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395049136,
+          50.93497516,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q",
+        "styleUrl": "#style119",
+        "styleHash": "-504e4050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395099126,
+          50.93490371,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q",
+        "styleUrl": "#style121",
+        "styleHash": "-597d3f47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395172668,
+          50.93486047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q",
+        "styleUrl": "#style123",
+        "styleHash": "62edf877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395317097,
+          50.9349361,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q",
+        "styleUrl": "#style125",
+        "styleHash": "1f593035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951115709115,
+              50.935066780027,
+              0
+            ],
+            [
+              -1.3951448595478,
+              50.935019107634,
+              0
+            ],
+            [
+              -1.3950641959498,
+              50.934996737674,
+              0
+            ],
+            [
+              -1.3950309073134,
+              50.935044410089,
+              0
+            ],
+            [
+              -1.395050983459,
+              50.935049977684,
+              0
+            ],
+            [
+              -1.3951115709115,
+              50.935066780027,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q (Polygon)",
+        "styleUrl": "#stylep116",
+        "styleHash": "5ceb14c5",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951448595478,
+              50.935019107634,
+              0
+            ],
+            [
+              -1.3951855870927,
+              50.934960781973,
+              0
+            ],
+            [
+              -1.3949550154795,
+              50.934896838797,
+              0
+            ],
+            [
+              -1.3949142879347,
+              50.934955164539,
+              0
+            ],
+            [
+              -1.3949678423122,
+              50.934970016473,
+              0
+            ],
+            [
+              -1.3950164412514,
+              50.93498349414,
+              0
+            ],
+            [
+              -1.3950641959498,
+              50.934996737674,
+              0
+            ],
+            [
+              -1.3951448595478,
+              50.935019107634,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q (Polygon)",
+        "styleUrl": "#stylep118",
+        "styleHash": "-55ce9639",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951855870927,
+              50.934960781973,
+              0
+            ],
+            [
+              -1.3952243017816,
+              50.934905338842,
+              0
+            ],
+            [
+              -1.3950505355602,
+              50.934857149149,
+              0
+            ],
+            [
+              -1.3949937301684,
+              50.93484139559,
+              0
+            ],
+            [
+              -1.3949550154795,
+              50.934896838797,
+              0
+            ],
+            [
+              -1.3951855870927,
+              50.934960781973,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q (Polygon)",
+        "styleUrl": "#stylep120",
+        "styleHash": "22da3b5e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952243017816,
+              50.934905338842,
+              0
+            ],
+            [
+              -1.3952689845294,
+              50.934841348799,
+              0
+            ],
+            [
+              -1.395095218308,
+              50.93479315904,
+              0
+            ],
+            [
+              -1.3950505355602,
+              50.934857149149,
+              0
+            ],
+            [
+              -1.3952243017816,
+              50.934905338842,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q (Polygon)",
+        "styleUrl": "#stylep122",
+        "styleHash": "70209060",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395338,
+              50.934916,
+              0
+            ],
+            [
+              -1.39525,
+              50.934891,
+              0
+            ],
+            [
+              -1.395234,
+              50.934914,
+              0
+            ],
+            [
+              -1.395394,
+              50.934958,
+              0
+            ],
+            [
+              -1.39541,
+              50.934936,
+              0
+            ],
+            [
+              -1.395338,
+              50.934916,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Q (Polygon)",
+        "styleUrl": "#stylep124",
+        "styleHash": "-42991a9e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395312175,
+          50.93489244,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals U",
+        "styleUrl": "#style127",
+        "styleHash": "-243b980d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953539212336,
+              50.934893286128,
+              0
+            ],
+            [
+              -1.3952656084323,
+              50.934868482008,
+              0
+            ],
+            [
+              -1.3952495549803,
+              50.934891182202,
+              0
+            ],
+            [
+              -1.3953378677817,
+              50.934915986309,
+              0
+            ],
+            [
+              -1.3953539212336,
+              50.934893286128,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals U (Polygon)",
+        "styleUrl": "#stylep126",
+        "styleHash": "aad3a64",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395336277,
+          50.93485836,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals W",
+        "styleUrl": "#style129",
+        "styleHash": "-67d0604f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953833899577,
+              50.934851616221,
+              0
+            ],
+            [
+              -1.3952950771563,
+              50.934826812079,
+              0
+            ],
+            [
+              -1.3952656084323,
+              50.934868482008,
+              0
+            ],
+            [
+              -1.3953539212336,
+              50.934893286128,
+              0
+            ],
+            [
+              -1.3953833899577,
+              50.934851616221,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals W (Polygon)",
+        "styleUrl": "#stylep128",
+        "styleHash": "57f38f66",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395218979,
+          50.93478202,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Z",
+        "styleUrl": "#style131",
+        "styleHash": "-70ff5f46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952131482537,
+              50.934810037994,
+              0
+            ],
+            [
+              -1.395256992016,
+              50.934748242018,
+              0
+            ],
+            [
+              -1.3952277248661,
+              50.934739995103,
+              0
+            ],
+            [
+              -1.3951838811038,
+              50.93480179109,
+              0
+            ],
+            [
+              -1.3952131482537,
+              50.934810037994,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Periodicals Z (Polygon)",
+        "styleUrl": "#stylep130",
+        "styleHash": "-2f639f03",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395,
+          50.9354,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Print Centre",
+        "styleUrl": "#style192",
+        "styleHash": "-1fd68361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39575227,
+          50.93485583,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Print Room",
+        "styleUrl": "#style187",
+        "styleHash": "4eb7a7f9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395816392,
+              50.93484217,
+              0
+            ],
+            [
+              -1.3957797408,
+              50.9348947627,
+              0
+            ],
+            [
+              -1.3957014077,
+              50.9348731935,
+              0
+            ],
+            [
+              -1.3956882024,
+              50.9348695137,
+              0
+            ],
+            [
+              -1.3956961076,
+              50.934858078,
+              0
+            ],
+            [
+              -1.3957248537,
+              50.9348168644,
+              0
+            ],
+            [
+              -1.395816392,
+              50.93484217,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Print Room (Polygon)",
+        "styleUrl": "#stylep186",
+        "styleHash": "1d3a1c1e",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395106209,
+          50.93495369,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Q",
+        "styleUrl": "#style145",
+        "styleHash": "-fab0fc9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951755512116,
+              50.935016363877,
+              0
+            ],
+            [
+              -1.3951973623826,
+              50.934986073787,
+              0
+            ],
+            [
+              -1.3952583934502,
+              50.935003527525,
+              0
+            ],
+            [
+              -1.3952812069297,
+              50.934971845478,
+              0
+            ],
+            [
+              -1.3951489492926,
+              50.934934022245,
+              0
+            ],
+            [
+              -1.394967402266,
+              50.934882103111,
+              0
+            ],
+            [
+              -1.3949619459096,
+              50.934889680601,
+              0
+            ],
+            [
+              -1.3949674492285,
+              50.93489125445,
+              0
+            ],
+            [
+              -1.3949282809344,
+              50.934945649204,
+              0
+            ],
+            [
+              -1.3951755512116,
+              50.935016363877,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Q (Polygon)",
+        "styleUrl": "#stylep144",
+        "styleHash": "18eb30a0",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395605103,
+          50.93500803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quarto CB-CC",
+        "styleUrl": "#style147",
+        "styleHash": "-533fd80b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3955984598564,
+              50.935037330316,
+              0
+            ],
+            [
+              -1.3956451989376,
+              50.934972726321,
+              0
+            ],
+            [
+              -1.3956150667188,
+              50.934964068448,
+              0
+            ],
+            [
+              -1.3955683276376,
+              50.935028672455,
+              0
+            ],
+            [
+              -1.3955984598564,
+              50.935037330316,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quarto CB-CC (Polygon)",
+        "styleUrl": "#stylep146",
+        "styleHash": "663185a2",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395526402,
+          50.93498744,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quarto CC-E",
+        "styleUrl": "#style149",
+        "styleHash": "692b5fb3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3955384916833,
+              50.935019707749,
+              0
+            ],
+            [
+              -1.3955814292035,
+              50.934959912081,
+              0
+            ],
+            [
+              -1.3955082663483,
+              50.934939047124,
+              0
+            ],
+            [
+              -1.3954653288281,
+              50.93499884282,
+              0
+            ],
+            [
+              -1.3955384916833,
+              50.935019707749,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quarto CC-E (Polygon)",
+        "styleUrl": "#stylep148",
+        "styleHash": "-4c88255c",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395143239,
+          50.93476068,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quarto Periodicals",
+        "styleUrl": "#style151",
+        "styleHash": "5ffc60bc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951405086445,
+              50.934789569585,
+              0
+            ],
+            [
+              -1.3951843524067,
+              50.934727773582,
+              0
+            ],
+            [
+              -1.3951473337214,
+              50.934717342429,
+              0
+            ],
+            [
+              -1.3951034899592,
+              50.934779138446,
+              0
+            ],
+            [
+              -1.3951405086445,
+              50.934789569585,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quarto Periodicals (Polygon)",
+        "styleUrl": "#stylep150",
+        "styleHash": "2c20ac3b",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394825449,
+          50.93521277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quarto qBL - qNX, qN - qPM",
+        "styleUrl": "#style153",
+        "styleHash": "1c67987a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3950107408702,
+              50.935275580874,
+              0
+            ],
+            [
+              -1.3950315801616,
+              50.935247788032,
+              0
+            ],
+            [
+              -1.3946569575518,
+              50.935147611496,
+              0
+            ],
+            [
+              -1.3946235177586,
+              50.935160744408,
+              0
+            ],
+            [
+              -1.3946191560465,
+              50.935169296069,
+              0
+            ],
+            [
+              -1.3950107408702,
+              50.935275580874,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quarto qBL - qNX, qN - qPM (Polygon)",
+        "styleUrl": "#stylep152",
+        "styleHash": "7967013d",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394919191,
+          50.93523452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Quartos K Pamphlets K",
+        "styleUrl": "#style155",
+        "styleHash": "-272d2fc8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395014176064,
+              50.935267889028,
+              0
+            ],
+            [
+              -1.3950240286998,
+              50.935253966426,
+              0
+            ],
+            [
+              -1.3947767136996,
+              50.935184458063,
+              0
+            ],
+            [
+              -1.3947668610637,
+              50.935198380685,
+              0
+            ],
+            [
+              -1.395014176064,
+              50.935267889028,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quartos K Pamphlets K (Polygon)",
+        "styleUrl": "#stylep154",
+        "styleHash": "-3952a9c1",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395236518,
+          50.93499147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Record Catalogues",
+        "styleUrl": "#style157",
+        "styleHash": "-6ac1f80a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952365619916,
+              50.935013189763,
+              0
+            ],
+            [
+              -1.3952702736109,
+              50.93496918958,
+              0
+            ],
+            [
+              -1.3952364523464,
+              50.934958898181,
+              0
+            ],
+            [
+              -1.3952027407271,
+              50.935002898374,
+              0
+            ],
+            [
+              -1.3952365619916,
+              50.935013189763,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Record Catalogues (Polygon)",
+        "styleUrl": "#stylep156",
+        "styleHash": "13f3ab41",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395247802,
+          50.93479014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reports",
+        "styleUrl": "#style159",
+        "styleHash": "51a93fb4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952416746663,
+              50.934818076173,
+              0
+            ],
+            [
+              -1.3952855184286,
+              50.934756280207,
+              0
+            ],
+            [
+              -1.395256992016,
+              50.934748242018,
+              0
+            ],
+            [
+              -1.3952131482537,
+              50.934810037994,
+              0
+            ],
+            [
+              -1.3952416746663,
+              50.934818076173,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Reports (Polygon)",
+        "styleUrl": "#stylep158",
+        "styleHash": "613a0043",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395237324,
+          50.93494419,
+          0
+        ]
+      },
+      "properties": {
+        "name": "S",
+        "styleUrl": "#style161",
+        "styleHash": "487a40bd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3952962402063,
+              50.934950968116,
+              0
+            ],
+            [
+              -1.3951639825693,
+              50.934913144867,
+              0
+            ],
+            [
+              -1.3951489492926,
+              50.934934022245,
+              0
+            ],
+            [
+              -1.3952812069297,
+              50.934971845478,
+              0
+            ],
+            [
+              -1.3952962402063,
+              50.934950968116,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S (Polygon)",
+        "styleUrl": "#stylep160",
+        "styleHash": "-261d2e26",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395349951,
+          50.93489591,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Stack Quarto",
+        "styleUrl": "#style163",
+        "styleHash": "4e5787b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.39535645406,
+              50.934917974811,
+              0
+            ],
+            [
+              -1.3953869552216,
+              50.934876446338,
+              0
+            ],
+            [
+              -1.3953401959963,
+              50.934862806823,
+              0
+            ],
+            [
+              -1.3953096948347,
+              50.934904335308,
+              0
+            ],
+            [
+              -1.39535645406,
+              50.934917974811,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Stack Quarto (Polygon)",
+        "styleUrl": "#stylep162",
+        "styleHash": "272926dc",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395064988,
+          50.93508514,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Statistics",
+        "styleUrl": "#style165",
+        "styleHash": "-3eaf4fc7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951288498843,
+              50.935082801997,
+              0
+            ],
+            [
+              -1.3950247131783,
+              50.93505475626,
+              0
+            ],
+            [
+              -1.3950064670033,
+              50.935079156052,
+              0
+            ],
+            [
+              -1.3949989015161,
+              50.935091776629,
+              0
+            ],
+            [
+              -1.3951021481648,
+              50.935119541887,
+              0
+            ],
+            [
+              -1.3951288498843,
+              50.935082801997,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Statistics (Polygon)",
+        "styleUrl": "#stylep164",
+        "styleHash": "746f7bde",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394889142,
+          50.93537096,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Statute Law",
+        "styleUrl": "#style167",
+        "styleHash": "7dbbe7f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.394927885865,
+              50.935393713299,
+              0
+            ],
+            [
+              -1.3949455317786,
+              50.935367780987,
+              0
+            ],
+            [
+              -1.3948310249733,
+              50.935336836278,
+              0
+            ],
+            [
+              -1.3948133790597,
+              50.935362768607,
+              0
+            ],
+            [
+              -1.394927885865,
+              50.935393713299,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Statute Law (Polygon)",
+        "styleUrl": "#stylep166",
+        "styleHash": "-3e4a2f20",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395167836,
+          50.934889,
+          0
+        ]
+      },
+      "properties": {
+        "name": "T",
+        "styleUrl": "#style169",
+        "styleHash": "3a271fb5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395335517895,
+              50.934896421447,
+              0
+            ],
+            [
+              -1.3951359113343,
+              50.934839337566,
+              0
+            ],
+            [
+              -1.3951206010092,
+              50.934860599728,
+              0
+            ],
+            [
+              -1.3950064029062,
+              50.934827941111,
+              0
+            ],
+            [
+              -1.394967402266,
+              50.934882103111,
+              0
+            ],
+            [
+              -1.3951489492926,
+              50.934934022245,
+              0
+            ],
+            [
+              -1.3951639825693,
+              50.934913144867,
+              0
+            ],
+            [
+              -1.3952962402063,
+              50.934950968116,
+              0
+            ],
+            [
+              -1.395335517895,
+              50.934896421447,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "T (Polygon)",
+        "styleUrl": "#stylep168",
+        "styleHash": "efc25e2",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395081046,
+          50.93483903,
+          0
+        ]
+      },
+      "properties": {
+        "name": "U",
+        "styleUrl": "#style171",
+        "styleHash": "30f820be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3951206010092,
+              50.934860599728,
+              0
+            ],
+            [
+              -1.3951359113343,
+              50.934839337566,
+              0
+            ],
+            [
+              -1.3950217132313,
+              50.934806678934,
+              0
+            ],
+            [
+              -1.3950064029062,
+              50.934827941111,
+              0
+            ],
+            [
+              -1.3951206010092,
+              50.934860599728,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "U (Polygon)",
+        "styleUrl": "#stylep170",
+        "styleHash": "-785b0887",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395328335,
+          50.93492534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Univ Coll",
+        "styleUrl": "#style173",
+        "styleHash": "-129ca784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953407615586,
+              50.934939340725,
+              0
+            ],
+            [
+              -1.39535645406,
+              50.934917974811,
+              0
+            ],
+            [
+              -1.3953096948347,
+              50.934904335308,
+              0
+            ],
+            [
+              -1.3952940023333,
+              50.934925701228,
+              0
+            ],
+            [
+              -1.3953407615586,
+              50.934939340725,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Univ Coll (Polygon)",
+        "styleUrl": "#stylep172",
+        "styleHash": "-2b14b385",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395205676,
+          50.93484584,
+          0
+        ]
+      },
+      "properties": {
+        "name": "V",
+        "styleUrl": "#style175",
+        "styleHash": "-56316fc6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395335517895,
+              50.934896421447,
+              0
+            ],
+            [
+              -1.3953596008147,
+              50.934862976396,
+              0
+            ],
+            [
+              -1.395045796151,
+              50.934773233819,
+              0
+            ],
+            [
+              -1.3950217132313,
+              50.934806678934,
+              0
+            ],
+            [
+              -1.3951359113343,
+              50.934839337566,
+              0
+            ],
+            [
+              -1.395335517895,
+              50.934896421447,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "V (Polygon)",
+        "styleUrl": "#stylep174",
+        "styleHash": "2231a17d",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395241018,
+          50.93478726,
+          0
+        ]
+      },
+      "properties": {
+        "name": "W",
+        "styleUrl": "#style177",
+        "styleHash": "6639c7f8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3953596008147,
+              50.934862976396,
+              0
+            ],
+            [
+              -1.3954095292483,
+              50.934793638423,
+              0
+            ],
+            [
+              -1.3951758571018,
+              50.934726812243,
+              0
+            ],
+            [
+              -1.3950957245845,
+              50.934703895712,
+              0
+            ],
+            [
+              -1.395045796151,
+              50.934773233819,
+              0
+            ],
+            [
+              -1.3953596008147,
+              50.934862976396,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "W (Polygon)",
+        "styleUrl": "#stylep176",
+        "styleHash": "6f77f67f",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395639722,
+          50.93501797,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Z/DA - Z/PT",
+        "styleUrl": "#style179",
+        "styleHash": "22a4ffb6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.395636070308,
+              50.935048136888,
+              0
+            ],
+            [
+              -1.3956828093892,
+              50.934983532907,
+              0
+            ],
+            [
+              -1.3956451989376,
+              50.934972726321,
+              0
+            ],
+            [
+              -1.3955984598564,
+              50.935037330316,
+              0
+            ],
+            [
+              -1.395636070308,
+              50.935048136888,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Z/DA - Z/PT (Polygon)",
+        "styleUrl": "#stylep178",
+        "styleHash": "-4341b47f",
+        "stroke": "#000000",
+        "stroke-opacity": 1,
+        "fill": "#3531fc",
+        "fill-opacity": 0.4
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>58 / 1015</name><description></description><styleUrl>#style42</styleUrl><Point><coordinates>-1.398807655,50.93672042,0.000000</coordinates></Point></Placemark><Style id='style42'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>58 / 1015 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3988562011,50.9366895016,0.000000
+-1.3988137108,50.9367568107,0.000000
+-1.3988085006,50.9367641134,0.000000
+-1.3987577457,50.9367491684,0.000000
+-1.3988090396,50.9366764813,0.000000
+-1.3988562011,50.9366895016,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep41</styleUrl></Placemark><Style id='stylep41'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Bookable Workstation</name><description>CLS Computer Workstation (BOOKABLE)</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.398536035,50.93664857,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Bookable Workstation</name><description>CLS Computer Workstation (BOOKABLE)</description><styleUrl>#style10</styleUrl><Point><coordinates>-1.398376797,50.93661641,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Bookable Workstation</name><description>CLS Computer Workstation (BOOKABLE)</description><styleUrl>#style12</styleUrl><Point><coordinates>-1.398420427,50.93654998,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Bookable Workstation (Polygon)</name><description>CLS Computer Workstation (BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.398676538,50.9366420624,0.000000
+-1.398656326,50.9366666878,0.000000
+-1.3985977558,50.9366501011,0.000000
+-1.3985476298,50.9367072771,0.000000
+-1.3984628288,50.9366805006,0.000000
+-1.3984433354,50.9366763115,0.000000
+-1.3984268064,50.9366716695,0.000000
+-1.3984628288,50.9366272872,0.000000
+-1.3984782799,50.9366058887,0.000000
+-1.39848888,50.936591906,0.000000
+-1.398676538,50.9366420624,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Bookable Workstation (Polygon)</name><description>CLS Computer Workstation (BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3984628288,50.9366272872,0.000000
+-1.3984268064,50.9366716695,0.000000
+-1.3984091994,50.9366677634,0.000000
+-1.3982802013,50.9366334011,0.000000
+-1.398337424,50.9365585627,0.000000
+-1.3984605831,50.9365943968,0.000000
+-1.3984409998,50.936620494,0.000000
+-1.3984524982,50.9366236642,0.000000
+-1.3984628288,50.9366272872,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep9</styleUrl></Placemark><Style id='stylep9'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Bookable Workstation (Polygon)</name><description>CLS Computer Workstation (BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3985063971,50.9365371074,0.000000
+-1.3984605831,50.9365943968,0.000000
+-1.398337424,50.9365585627,0.000000
+-1.3983738058,50.9365067644,0.000000
+-1.3984523186,50.9365275969,0.000000
+-1.3985063971,50.9365371074,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep11</styleUrl></Placemark><Style id='stylep11'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Car park entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39895,50.9365,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room A</name><description>Common Learning Space: Murray Lecture Room A</description><styleUrl>#style18</styleUrl><Point><coordinates>-1.399031572,50.9365493,0.000000</coordinates></Point></Placemark><Style id='style18'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room A (Polygon)</name><description>Common Learning Space: Murray Lecture Room A</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990653289,50.9365376735,0.000000
+-1.3990397269,50.9365740172,0.000000
+-1.3990238267,50.9365694884,0.000000
+-1.3989989434,50.9365606006,0.000000
+-1.3990017282,50.936556185,0.000000
+-1.3990218504,50.9365247664,0.000000
+-1.3990653289,50.9365376735,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep17</styleUrl></Placemark><Style id='stylep17'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room B</name><description>Common Learning Space: Murray Lecture Room B</description><styleUrl>#style20</styleUrl><Point><coordinates>-1.399062062,50.93656729,0.000000</coordinates></Point></Placemark><Style id='style20'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room B (Polygon)</name><description>Common Learning Space: Murray Lecture Room B</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990997344,50.9365479766,0.000000
+-1.3990660476,50.93659451,0.000000
+-1.3990159216,50.936580584,0.000000
+-1.3990196047,50.9365754891,0.000000
+-1.3990238267,50.9365694884,0.000000
+-1.3990397269,50.9365740172,0.000000
+-1.3990653289,50.9365376735,0.000000
+-1.3990997344,50.9365479766,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep19</styleUrl></Placemark><Style id='stylep19'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room C</name><description>Common Learning Space: Murray Lecture Room C</description><styleUrl>#style22</styleUrl><Point><coordinates>-1.399015058,50.9366004,0.000000</coordinates></Point></Placemark><Style id='style22'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room C (Polygon)</name><description>Common Learning Space: Murray Lecture Room C</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990660476,50.93659451,0.000000
+-1.3990406252,50.936629212,0.000000
+-1.3989647176,50.9366056622,0.000000
+-1.3989707363,50.9365970009,0.000000
+-1.3989891518,50.9365710735,0.000000
+-1.3990159216,50.936580584,0.000000
+-1.3990660476,50.93659451,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep21</styleUrl></Placemark><Style id='stylep21'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room D</name><description>Common Learning Space: Murray Lecture Room D</description><styleUrl>#style24</styleUrl><Point><coordinates>-1.398968905,50.93666439,0.000000</coordinates></Point></Placemark><Style id='style24'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room D (Polygon)</name><description>Common Learning Space: Murray Lecture Room D</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990406252,50.936629212,0.000000
+-1.3989737906,50.9367217126,0.000000
+-1.398896805,50.9367016727,0.000000
+-1.3989040813,50.9366915962,0.000000
+-1.3989537581,50.9366212866,0.000000
+-1.3989647176,50.9366056622,0.000000
+-1.3990406252,50.936629212,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep23</styleUrl></Placemark><Style id='stylep23'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room G</name><description>Common Learning Space: Murray Lecture Room G</description><styleUrl>#style26</styleUrl><Point><coordinates>-1.39881691,50.93683185,0.000000</coordinates></Point></Placemark><Style id='style26'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room G (Polygon)</name><description>Common Learning Space: Murray Lecture Room G</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3988966253,50.9368283089,0.000000
+-1.3988636571,50.9368737665,0.000000
+-1.3987376235,50.9368386685,0.000000
+-1.3987717595,50.9367893614,0.000000
+-1.3988014937,50.9367975132,0.000000
+-1.3988240414,50.9368037969,0.000000
+-1.3988515299,50.9368130809,0.000000
+-1.3988629385,50.9368168737,0.000000
+-1.398871742,50.936819874,0.000000
+-1.3988966253,50.9368283089,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep25</styleUrl></Placemark><Style id='stylep25'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre</name><description>Common Learning Space: Murray Lecture Theatre</description><styleUrl>#style40</styleUrl><Point><coordinates>-1.398746659,50.93665578,0.000000</coordinates></Point></Placemark><Style id='style40'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre (Polygon)</name><description>Common Learning Space: Murray Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3988726403,50.936590604,0.000000
+-1.3988588062,50.9366093985,0.000000
+-1.3988090396,50.9366764813,0.000000
+-1.3987577457,50.9367491684,0.000000
+-1.3987501101,50.936756188,0.000000
+-1.3986213815,50.9367170706,0.000000
+-1.398656326,50.9366666878,0.000000
+-1.398676538,50.9366420624,0.000000
+-1.3987482236,50.9365555057,0.000000
+-1.3987702323,50.9365619027,0.000000
+-1.3988478468,50.936584207,0.000000
+-1.3988726403,50.936590604,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep39</styleUrl></Placemark><Style id='stylep39'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Murray</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39864,50.93662,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Murray (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39909973437833,50.9365479765731,0.000000
+-1.39906604755518,50.9365945100447,0.000000
+-1.39904062523263,50.936629211983,0.000000
+-1.39902032330721,50.9366575735805,0.000000
+-1.3989737905755,50.9367217126184,0.000000
+-1.39886365712166,50.9368737665067,0.000000
+-1.3987376234873,50.9368386684828,0.000000
+-1.39864590549679,50.9368120618987,0.000000
+-1.39853981446174,50.936780303807,0.000000
+-1.39852660922706,50.9367767939988,0.000000
+-1.39848384941954,50.9367645096678,0.000000
+-1.3984480066397,50.9367540934583,0.000000
+-1.39843623870948,50.9367508100875,0.000000
+-1.39833284262028,50.9367185990749,0.000000
+-1.39823528558042,50.9366926151312,0.000000
+-1.39826771476218,50.9366519691943,0.000000
+-1.3982740928007,50.9366425153293,0.000000
+-1.39828020134463,50.9366334011222,0.000000
+-1.39830113209075,50.9366069076407,0.000000
+-1.39830795928691,50.9365975669865,0.000000
+-1.39830903726525,50.9365962083458,0.000000
+-1.39831352884167,50.9365899812418,0.000000
+-1.39837380579723,50.9365067644084,0.000000
+-1.39838251945549,50.9364947630569,0.000000
+-1.39835107842054,50.936485705431,0.000000
+-1.39832673407635,50.9364786857698,0.000000
+-1.39833886133268,50.936461985765,0.000000
+-1.39835413269251,50.9364408701571,0.000000
+-1.39840991807165,50.9364570040675,0.000000
+-1.39847441710905,50.9363680127449,0.000000
+-1.39868974328266,50.9364300009933,0.000000
+-1.39870914689279,50.9364356054062,0.000000
+-1.39872693353542,50.9364407003265,0.000000
+-1.39876080002163,50.9364504938938,0.000000
+-1.39882970080392,50.9364694017001,0.000000
+-1.39889994905914,50.9364896681425,0.000000
+-1.39896947866213,50.9365105006776,0.000000
+-1.39899660778371,50.9365185959264,0.000000
+-1.3990218504432,50.9365247664299,0.000000
+-1.39906532890295,50.9365376735353,0.000000
+-1.39909973437833,50.9365479765731,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Murray Conference Room</name><description>Common Learning Space</description><styleUrl>#style38</styleUrl><Point><coordinates>-1.398837191,50.93650554,0.000000</coordinates></Point></Placemark><Style id='style38'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Murray Conference Room (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3988999491,50.9364896681,0.000000
+-1.3988593452,50.9365466745,0.000000
+-1.3987987988,50.9365285027,0.000000
+-1.3987727476,50.9365205773,0.000000
+-1.3988176634,50.9364643634,0.000000
+-1.3988999491,50.9364896681,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep37</styleUrl></Placemark><Style id='stylep37'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Non-Bookable Workstation</name><description>CLS Computer Workstation (BOOKABLE)</description><styleUrl>#style14</styleUrl><Point><coordinates>-1.398625813,50.93657635,0.000000</coordinates></Point></Placemark><Style id='style14'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Non-Bookable Workstation</name><description>Faculty-Owned Room</description><styleUrl>#style16</styleUrl><Point><coordinates>-1.398544938,50.93643629,0.000000</coordinates></Point></Placemark><Style id='style16'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Non-Bookable Workstation (Polygon)</name><description>CLS Computer Workstation (BOOKABLE)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3987482236,50.9365555057,0.000000
+-1.398676538,50.9366420624,0.000000
+-1.39848888,50.936591906,0.000000
+-1.3985788912,50.9365252759,0.000000
+-1.3985917371,50.9365119159,0.000000
+-1.3986328799,50.9365212,0.000000
+-1.3987482236,50.9365555057,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep13</styleUrl></Placemark><Style id='stylep13'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Non-Bookable Workstation (Polygon)</name><description>Faculty-Owned Room</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3986897433,50.936430001,0.000000
+-1.3986429411,50.9364922722,0.000000
+-1.3985258906,50.9364699112,0.000000
+-1.3985160989,50.9364875736,0.000000
+-1.3985018157,50.9364833844,0.000000
+-1.3984099181,50.9364570041,0.000000
+-1.3984744171,50.9363680127,0.000000
+-1.3986897433,50.936430001,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep15</styleUrl></Placemark><Style id='stylep15'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Salisbury Road entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39849,50.93676,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room H</name><description>Common Learning Space: Murray Seminar Room H</description><styleUrl>#style28</styleUrl><Point><coordinates>-1.398709075,50.93680088,0.000000</coordinates></Point></Placemark><Style id='style28'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room H (Polygon)</name><description>Common Learning Space: Murray Seminar Room H</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3987717595,50.9367893614,0.000000
+-1.3987376235,50.9368386685,0.000000
+-1.3986459055,50.9368120619,0.000000
+-1.3986798618,50.9367637171,0.000000
+-1.3987582847,50.9367848892,0.000000
+-1.3987717595,50.9367893614,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep27</styleUrl></Placemark><Style id='stylep27'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room J</name><description>Common Learning Space: Murray Seminar Room J</description><styleUrl>#style30</styleUrl><Point><coordinates>-1.39861028,50.93677275,0.000000</coordinates></Point></Placemark><Style id='style30'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room J (Polygon)</name><description>Common Learning Space: Murray Seminar Room J</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3986798618,50.9367637171,0.000000
+-1.3986459055,50.9368120619,0.000000
+-1.3985398145,50.9367803038,0.000000
+-1.3985729623,50.9367349027,0.000000
+-1.3986416834,50.9367525084,0.000000
+-1.3986798618,50.9367637171,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep29</styleUrl></Placemark><Style id='stylep29'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room K</name><description>Common Learning Space: Murray Seminar Room K</description><styleUrl>#style32</styleUrl><Point><coordinates>-1.398504023,50.93674344,0.000000</coordinates></Point></Placemark><Style id='style32'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room K (Polygon)</name><description>Common Learning Space: Murray Seminar Room K</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3985729623,50.9367349027,0.000000
+-1.3985398145,50.9367803038,0.000000
+-1.3984362387,50.9367508101,0.000000
+-1.3984640865,50.9367076734,0.000000
+-1.3985524807,50.9367295814,0.000000
+-1.3985729623,50.9367349027,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep31</styleUrl></Placemark><Style id='stylep31'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room L</name><description>Common Learning Space: Murray Seminar Room L</description><styleUrl>#style34</styleUrl><Point><coordinates>-1.398399145,50.93671377,0.000000</coordinates></Point></Placemark><Style id='style34'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room L (Polygon)</name><description>Common Learning Space: Murray Seminar Room L</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3984640865,50.9367076734,0.000000
+-1.3984362387,50.9367508101,0.000000
+-1.3983328426,50.9367185991,0.000000
+-1.3983620379,50.9366776135,0.000000
+-1.3984454914,50.9367017859,0.000000
+-1.3984551033,50.9367047863,0.000000
+-1.3984640865,50.9367076734,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep33</styleUrl></Placemark><Style id='stylep33'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room M</name><description>Common Learning Space: Murray Seminar Room M</description><styleUrl>#style36</styleUrl><Point><coordinates>-1.398299317,50.93668527,0.000000</coordinates></Point></Placemark><Style id='style36'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room M (Polygon)</name><description>Common Learning Space: Murray Seminar Room M</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3983620379,50.9366776135,0.000000
+-1.3983328426,50.9367185991,0.000000
+-1.3982352856,50.9366926151,0.000000
+-1.3982677148,50.9366519692,0.000000
+-1.3983480241,50.936673764,0.000000
+-1.3983620379,50.9366776135,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep35</styleUrl></Placemark><Style id='stylep35'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Side entrance</name><description></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.39902,50.93666,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>iSolutions Computer Workstations entrance</name><description></description><styleUrl>#style6</styleUrl><Point><coordinates>-1.39834,50.93645,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

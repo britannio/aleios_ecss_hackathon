@@ -1,0 +1,279 @@
+{
+    "appHeaderStyle": null,
+    "apps": [
+        {
+            "title": "Karten",
+            "type": "maps",
+            "url": null
+        }
+    ],
+    "campusCollectionTag": "uos",
+    "campusMenu": {
+        "children": [
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 677,
+                "itemType": "campus",
+                "title": "Highfield Campus",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 680,
+                "itemType": "campus",
+                "title": "Avenue Campus",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 683,
+                "itemType": "campus",
+                "title": "Winchester Campus",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 679,
+                "itemType": "campus",
+                "title": "Boldrewood Innovation Campus",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 852,
+                "itemType": "campus",
+                "title": "Guildhall Square",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 682,
+                "itemType": "campus",
+                "title": "Waterfront Campus",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 681,
+                "itemType": "campus",
+                "title": "Southampton General Hospital",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 865,
+                "itemType": "campus",
+                "title": "Science Park",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 892,
+                "itemType": "campus",
+                "title": "Wide Lane Sports Ground",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 893,
+                "itemType": "campus",
+                "title": "Watersports Centre",
+                "type": null
+            },
+            {
+                "children": [],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "darkblue"
+                },
+                "itemId": 894,
+                "itemType": "campus",
+                "title": "Aldermoor Health Centre",
+                "type": null
+            },
+            {
+                "children": [
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 833,
+                        "itemType": "campus",
+                        "title": "Highfield Hall",
+                        "type": null
+                    },
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 834,
+                        "itemType": "campus",
+                        "title": "Glen Eyre",
+                        "type": null
+                    },
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 839,
+                        "itemType": "campus",
+                        "title": "Wessex Lane",
+                        "type": null
+                    },
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 840,
+                        "itemType": "campus",
+                        "title": "City Gateway",
+                        "type": null
+                    },
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 841,
+                        "itemType": "campus",
+                        "title": "Erasmus Park",
+                        "type": null
+                    },
+                    {
+                        "children": [],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": 842,
+                        "itemType": "campus",
+                        "title": "Mayflower",
+                        "type": null
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [],
+                                "icon": {
+                                    "iconClass": "dj-mm-university-cap",
+                                    "iconColor": "green"
+                                },
+                                "itemId": 850,
+                                "itemType": "campus",
+                                "title": "Romero Hall",
+                                "type": null
+                            },
+                            {
+                                "children": [],
+                                "icon": {
+                                    "iconClass": "dj-mm-university-cap",
+                                    "iconColor": "green"
+                                },
+                                "itemId": 849,
+                                "itemType": "campus",
+                                "title": "Gateley Hall",
+                                "type": null
+                            }
+                        ],
+                        "icon": {
+                            "iconClass": "dj-mm-university-cap",
+                            "iconColor": "green"
+                        },
+                        "itemId": null,
+                        "itemType": "group",
+                        "title": "Archers Road",
+                        "type": null
+                    }
+                ],
+                "icon": {
+                    "iconClass": "dj-mm-university-cap",
+                    "iconColor": "green"
+                },
+                "itemId": null,
+                "itemType": "group",
+                "title": "Accommodation",
+                "type": null
+            }
+        ],
+        "icon": null,
+        "itemId": null,
+        "itemType": null,
+        "title": "University of Southampton",
+        "type": null
+    },
+    "customAppDomainUrl": null,
+    "description": null,
+    "draft": false,
+    "floorSelectorType": "buildingClosestToCenter",
+    "iconId": null,
+    "isAppProfile": true,
+    "mapStyle": "mazemap://v2020",
+    "mapView": {
+        "bearing": 0.0,
+        "center": {
+            "lat": 50.93522662042051,
+            "lng": -1.3969921849286493
+        },
+        "pitch": 0.0,
+        "zLevel": null,
+        "zoom": 14.399947922854274
+    },
+    "maps3dSupported": false,
+    "requiresViewAccessToken": false,
+    "ssoLoginSupported": false,
+    "tag": "uos",
+    "theme": {
+        "primaryColor": "#005c84"
+    },
+    "title": "University of Southampton",
+    "useProxyApis": false
+}

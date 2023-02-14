@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="1DC6398CBE277AE0FE08">
+			<name>Synthetic Chemistry (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39459630019598,50.9341807653602,0
+							-1.39455309123082,50.9341678009876,0
+							-1.39457204568331,50.93414289126589,0
+							-1.39458785603231,50.9341213783137,0
+							-1.39455542685055,50.9341115842559,0
+							-1.39433228533398,50.9340442712822,0
+							-1.39427434399815,50.9341187741136,0
+							-1.3943507007973,50.93414170239251,0
+							-1.39431979875153,50.9341825769753,0
+							-1.39435438388997,50.9341929937608,0
+							-1.39429132215702,50.9342764977989,0
+							-1.39415414941314,50.9342352836212,0
+							-1.39411480320369,50.9342871976275,0
+							-1.39415567654912,50.9343005016438,0
+							-1.3942150551894,50.93431816484249,0
+							-1.39426994225326,50.9343337899742,0
+							-1.39420858731936,50.93441480280131,0
+							-1.3946178597628,50.9345377653971,0
+							-1.39467283665819,50.93446518806639,0
+							-1.39483390458863,50.934513591837,0 
+							-1.39499515218213,50.9343006148694,0
+							-1.39459630019598,50.9341807653602,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

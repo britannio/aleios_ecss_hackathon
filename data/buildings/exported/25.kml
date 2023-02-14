@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Converted from RDF Document</name>
+	<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+	<Style id="stylep1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>66fc3135</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="0918F17B0B277ADF6DC4">
+		<name>EScience Building (Polygon)</name>
+		<styleUrl>#stylep1</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.39375574658463,50.9346915814094,0 -1.3937009493523,50.93467697542049,0 -1.39368846276985,50.93467301255451,0 -1.39367067612723,50.9346671814797,0 -1.39360500927996,50.93464827294059,0 -1.39354940356387,50.9347252091338,0 -1.39350493695731,50.9347866900619,0 -1.39347628069974,50.9347787077361,0 -1.39343944977309,50.9347684043063,0 -1.39336111668032,50.9347464953575,0 -1.39324,50.93493000000001,0 -1.39339668996557,50.9349733968392,0 -1.39353898310657,50.935014214079,0 -1.39360599742677,50.9349213703747,0 -1.39364983521263,50.9348609086432,0 -1.3936582793763,50.9348490767034,0 -1.39366852017054,50.9348349802736,0 -1.39368001860618,50.9348190722493,0 -1.39368873226444,50.9348065609523,0 -1.39369753575422,50.9347948988353,0 -1.39373885825729,50.93473777706491,0 -1.39376940097695,50.9346954876614,0 -1.39375574658463,50.9346915814094,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

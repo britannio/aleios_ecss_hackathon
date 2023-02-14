@@ -1,0 +1,21 @@
+B01 - Electronics and Computer Science
+B04 - Law
+B07 and B09 - Lanchester
+B13 - Tizard
+B16 - Electronics and Computer Science
+B25 - E-Science Centre
+B27 - Chemistry
+B34 - School of Education
+B36 - Hartley Library
+B37 - Administration
+B40 - Students Union
+B42 - Students Union
+B44 - Shackleton
+B46 - Physics
+B53 - Mountbatten
+B54 - Mathematics
+B58 - Murray
+59 - Zepler
+B67 - Nightingale
+B85 - Life Sciences
+B100 - Centenary Building

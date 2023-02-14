@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Converted from RDF Document</name>
+        <description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+        <Placemark>
+            <name>Latte's entrance</name>
+            <description></description>
+            <styleUrl>#style4</styleUrl>
+            <Point>
+                <coordinates>-1.39561,50.9364,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style4'>
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Lattes</name>
+            <description>&lt;p&gt;INGREDIENTS FOR THE PERFECT COFFEE&lt;p&gt;Fair trade coffee bean,
+                particularly selected for the University of Southampton&lt;p&gt;A skilled team,
+                trained in the art of hand making your coffee&lt;p&gt;The home of great coffee and a
+                whole lot more.&lt;p&gt;We are passionate about our business and aim to produce a
+                'Top of the Class' product, competing with High Street Brands. Walk into any of our
+                Lattes Café Bars and you'll instantly notice the difference to other coffee
+                shops.&lt;p&gt;The rich aroma of a carefully selected Fair Trade coffee&lt;p&gt;Warm
+                and welcoming atmosphere&lt;p&gt;Great range of authentic, speciality coffee drinks
+                and flavoured, detoxifying teas&lt;p&gt;Traditional Barista Coffee Machines (No push
+                button coffee machines)&lt;p&gt;Passionate and well trained team&lt;p&gt;You will
+                also find delicious danish pastries, homemade cakes and a selection of paninis.
+                &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Supervisor: &lt;strong&gt;Mrs Lin
+                Treviss&lt;/strong&gt; -</description>
+            <styleUrl>#style6</styleUrl>
+            <Point>
+                <coordinates>-1.395552317,50.93636199,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style6'>
+            <IconStyle>
+                <Icon>
+                    <href>https://data.southampton.ac.uk/map-icons/Restaurants-and-Hotels/lattes.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Lattes (Polygon)</name>
+            <description>&lt;p&gt;INGREDIENTS FOR THE PERFECT COFFEE&lt;p&gt;Fair trade coffee bean,
+                particularly selected for the University of Southampton&lt;p&gt;A skilled team,
+                trained in the art of hand making your coffee&lt;p&gt;The home of great coffee and a
+                whole lot more.&lt;p&gt;We are passionate about our business and aim to produce a
+                'Top of the Class' product, competing with High Street Brands. Walk into any of our
+                Lattes Café Bars and you'll instantly notice the difference to other coffee
+                shops.&lt;p&gt;The rich aroma of a carefully selected Fair Trade coffee&lt;p&gt;Warm
+                and welcoming atmosphere&lt;p&gt;Great range of authentic, speciality coffee drinks
+                and flavoured, detoxifying teas&lt;p&gt;Traditional Barista Coffee Machines (No push
+                button coffee machines)&lt;p&gt;Passionate and well trained team&lt;p&gt;You will
+                also find delicious danish pastries, homemade cakes and a selection of paninis.
+                &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Supervisor: &lt;strong&gt;Mrs Lin
+                Treviss&lt;/strong&gt; -</description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-1.3955897471,50.9363744097,0.000000
+                            -1.3955134801,50.9363826748,0.000000
+                            -1.3955537246,50.936328895,0.000000
+                            -1.3955897471,50.9363744097,0.000000
+</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <styleUrl>#stylep5</styleUrl>
+        </Placemark>
+        <Style id='stylep5'>
+            <LineStyle>
+                <color>ff000000</color>
+            </LineStyle>
+            <PolyStyle>
+                <color>66fc3135</color>
+            </PolyStyle>
+        </Style>
+        <Placemark>
+            <name>Life Sciences</name>
+            <description></description>
+            <styleUrl>#style2</styleUrl>
+            <Point>
+                <coordinates>-1.39534,50.93645,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style2'>
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Life Sciences (Polygon)</name>
+            <description></description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <tessellate>1</tessellate>
+                        <coordinates>-1.39571622986069,50.9366911998832,0.000000
+                            -1.39565963599779,50.9367090886135,0.000000
+                            -1.39570311445755,50.9367731143608,0.000000
+                            -1.39541340777842,50.9369135064954,0.000000
+                            -1.39519260188158,50.9366390621206,0.000000
+                            -1.39496416030483,50.9363017786347,0.000000
+                            -1.39490037991966,50.9362076920698,0.000000
+                            -1.3949628128319,50.9361549876593,0.000000
+                            -1.3950845345529,50.9360662788121,0.000000
+                            -1.39513187576837,50.936073411757,0.000000
+                            -1.39518766114752,50.9361762732286,0.000000
+                            -1.39544583696017,50.9361800661349,0.000000
+                            -1.3955537246258,50.936328895004,0.000000
+                            -1.39558974706869,50.9363744097095,0.000000
+                            -1.3956182236632,50.9364082626581,0.000000
+                            -1.39563951373543,50.9364319823515,0.000000
+                            -1.39557672149707,50.9364853091598,0.000000
+                            -1.39570482125659,50.9366073039108,0.000000
+                            -1.39571622986069,50.9366911998832,0.000000
+</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+            <styleUrl>#stylep1</styleUrl>
+        </Placemark>
+        <Style id='stylep1'>
+            <LineStyle>
+                <color>ff000000</color>
+            </LineStyle>
+            <PolyStyle>
+                <color>66fc3135</color>
+            </PolyStyle>
+        </Style>
+        <Placemark>
+            <name>Reception entrance</name>
+            <description></description>
+            <styleUrl>#style3</styleUrl>
+            <Point>
+                <coordinates>-1.39505,50.93616,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style3'>
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Shower</name>
+            <description></description>
+            <styleUrl>#style7</styleUrl>
+            <Point>
+                <coordinates>-1.39534,50.93645,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style7'>
+            <IconStyle>
+                <Icon>
+                    <href>https://data.southampton.ac.uk/map-icons/shower.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Shower</name>
+            <description></description>
+            <styleUrl>#style8</styleUrl>
+            <Point>
+                <coordinates>-1.39534,50.93645,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style8'>
+            <IconStyle>
+                <Icon>
+                    <href>https://data.southampton.ac.uk/map-icons/shower.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Shower (accessible)</name>
+            <description></description>
+            <styleUrl>#style9</styleUrl>
+            <Point>
+                <coordinates>-1.39534,50.93645,0.000000</coordinates>
+            </Point>
+        </Placemark>
+        <Style id='style9'>
+            <IconStyle>
+                <Icon>
+                    <href>https://data.southampton.ac.uk/map-icons/shower.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+    </Document>
+</kml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>02 / 1033</name><description></description><styleUrl>#style21</styleUrl><Point><coordinates>-1.397945582,50.93657203,0.000000</coordinates></Point></Placemark><Style id='style21'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>02 / 1033 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3980016338,50.9365431647,0.000000
+-1.3979445908,50.9366174937,0.000000
+-1.3978903325,50.9366014165,0.000000
+-1.3979445908,50.9365273139,0.000000
+-1.397958335,50.9365308803,0.000000
+-1.3979718995,50.9365345034,0.000000
+-1.3980016338,50.9365431647,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep20</styleUrl></Placemark><Style id='stylep20'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>02 / 1079</name><description>Seminar Room (Priority Music)</description><styleUrl>#style11</styleUrl><Point><coordinates>-1.398309672,50.93593828,0.000000</coordinates></Point></Placemark><Style id='style11'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>02 / 1079 (Polygon)</name><description>Seminar Room (Priority Music)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3983769499,50.9359342059,0.000000
+-1.3983485631,50.9359736637,0.000000
+-1.3982417535,50.935942188,0.000000
+-1.3982719368,50.9359030699,0.000000
+-1.3982948439,50.9359095802,0.000000
+-1.398361409,50.9359297903,0.000000
+-1.3983769499,50.9359342059,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep10</styleUrl></Placemark><Style id='stylep10'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>02 / 2033 (L/R E)</name><description>Music Room</description><styleUrl>#style19</styleUrl><Point><coordinates>-1.39807225,50.93644047,0.000000</coordinates></Point></Placemark><Style id='style19'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>02 / 2033 (L/R E) (Polygon)</name><description>Music Room</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3981243436,50.9364127915,0.000000
+-1.3980929924,50.9364558719,0.000000
+-1.3980720617,50.9364849695,0.000000
+-1.3980571497,50.9364798746,0.000000
+-1.3980196899,50.9364684959,0.000000
+-1.3980417885,50.9364386624,0.000000
+-1.3980482563,50.9364294915,0.000000
+-1.3980731397,50.9363958084,0.000000
+-1.3981243436,50.9364127915,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep18</styleUrl></Placemark><Style id='stylep18'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Building 2</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39821,50.93617,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Building 2 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39857835218743,50.9358607815984,0.000000
+-1.39852400411274,50.9359357910172,0.000000
+-1.39849939027395,50.9359698141174,0.000000
+-1.39848591554469,50.935988269233,0.000000
+-1.39847100351097,50.9360088755496,0.000000
+-1.39842635724135,50.9359959682974,0.000000
+-1.3983695837154,50.936074260917,0.000000
+-1.39835197673583,50.9360984902765,0.000000
+-1.39834568852884,50.9361072649247,0.000000
+-1.39832951885373,50.9361295695066,0.000000
+-1.39821237854068,50.9362911924904,0.000000
+-1.39812434364283,50.9364127914788,0.000000
+-1.39809299243942,50.9364558718634,0.000000
+-1.3980720616933,50.9364849694988,0.000000
+-1.39805409538762,50.9365097081356,0.000000
+-1.39804780718063,50.9365183694859,0.000000
+-1.39804340543573,50.9365244833793,0.000000
+-1.39803055952717,50.9365422023434,0.000000
+-1.39797082156078,50.9366245699634,0.000000
+-1.39794459075448,50.9366174937131,0.000000
+-1.39789033251132,50.9366014164684,0.000000
+-1.39778585844378,50.9365712999248,0.000000
+-1.39784963882895,50.9364832711938,0.000000
+-1.39787047974354,50.9364543999981,0.000000
+-1.39789141048966,50.9364255853948,0.000000
+-1.39793039737299,50.9363716924149,0.000000
+-1.39795402306496,50.9363390848673,0.000000
+-1.39812299616991,50.9361059062696,0.000000
+-1.39814868798703,50.9360704113914,0.000000
+-1.39816854075481,50.9360430684285,0.000000
+-1.39818578840827,50.936019291926,0.000000
+-1.39824175345047,50.9359421880413,0.000000
+-1.39813000302912,50.9359099764686,0.000000
+-1.39815847962363,50.9358706885097,0.000000
+-1.39819602920251,50.935818776271,0.000000
+-1.39821884641072,50.9358253997551,0.000000
+-1.39823789069475,50.9358308910189,0.000000
+-1.39826007908226,50.9358002644772,0.000000
+-1.39827867420864,50.9357745630755,0.000000
+-1.39842698606205,50.9358171911636,0.000000
+-1.39857835218743,50.9358607815984,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room L</name><description>Music Practice Room</description><styleUrl>#style7</styleUrl><Point><coordinates>-1.397870112,50.93654237,0.000000</coordinates></Point></Placemark><Style id='style7'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room L (Polygon)</name><description>Music Practice Room</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3979541129,50.9365133878,0.000000
+-1.3979445908,50.9365273139,0.000000
+-1.3978903325,50.9366014165,0.000000
+-1.3977858584,50.9365712999,0.000000
+-1.3978496388,50.9364832712,0.000000
+-1.3978651797,50.9364878,0.000000
+-1.3979339906,50.9365076136,0.000000
+-1.3979541129,50.9365133878,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep6</styleUrl></Placemark><Style id='stylep6'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre B</name><description>Common Learning Space: Seminar Room (Priority Music)</description><styleUrl>#style13</styleUrl><Point><coordinates>-1.398200643,50.93590646,0.000000</coordinates></Point></Placemark><Style id='style13'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre B (Polygon)</name><description>Common Learning Space: Seminar Room (Priority Music)</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3982719368,50.9359030699,0.000000
+-1.3982417535,50.935942188,0.000000
+-1.398130003,50.9359099765,0.000000
+-1.3981584796,50.9358706885,0.000000
+-1.3981798595,50.9358768025,0.000000
+-1.398255318,50.9358983146,0.000000
+-1.3982719368,50.9359030699,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep12</styleUrl></Placemark><Style id='stylep12'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre C</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style15</styleUrl><Point><coordinates>-1.398325573,50.9358336,0.000000</coordinates></Point></Placemark><Style id='style15'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre C (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3984269861,50.9358171912,0.000000
+-1.3983727278,50.9358925969,0.000000
+-1.3983556598,50.9358876718,0.000000
+-1.3982435501,50.9358556866,0.000000
+-1.3982242363,50.9358501954,0.000000
+-1.3982378907,50.935830891,0.000000
+-1.3982600791,50.9358002645,0.000000
+-1.3982786742,50.9357745631,0.000000
+-1.3984269861,50.9358171912,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep14</styleUrl></Placemark><Style id='stylep14'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre D</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style17</styleUrl><Point><coordinates>-1.398475479,50.93587657,0.000000</coordinates></Point></Placemark><Style id='style17'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre D (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3985783522,50.9358607816,0.000000
+-1.3985240041,50.935935791,0.000000
+-1.3985091819,50.9359316018,0.000000
+-1.3983924009,50.9358982014,0.000000
+-1.3983727278,50.9358925969,0.000000
+-1.3984269861,50.9358171912,0.000000
+-1.3985783522,50.9358607816,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep16</styleUrl></Placemark><Style id='stylep16'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre K</name><description>Common Learning Space: Lecture Theatre</description><styleUrl>#style9</styleUrl><Point><coordinates>-1.397972741,50.9363967,0.000000</coordinates></Point></Placemark><Style id='style9'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre K (Polygon)</name><description>Common Learning Space: Lecture Theatre</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3980540954,50.9363678995,0.000000
+-1.3979914828,50.9364542868,0.000000
+-1.3979749538,50.9364494749,0.000000
+-1.3979083886,50.9364305105,0.000000
+-1.3978914105,50.9364255854,0.000000
+-1.3979540231,50.9363390849,0.000000
+-1.3980540954,50.9363678995,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep8</styleUrl></Placemark><Style id='stylep8'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lower ground entrance</name><description></description><styleUrl>#style5</styleUrl><Point><coordinates>-1.39822,50.93582,0.000000</coordinates></Point></Placemark><Style id='style5'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Management entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39787,50.93645,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Music entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39818,50.93602,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

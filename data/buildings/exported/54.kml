@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="151A8EFAD6277B06E8FD">
+			<name>Mathematics (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.39879691229605,50.9361051703314,0
+							-1.39875055922739,50.93616449823401,0
+							-1.39872693353542,50.9361946150412,0
+							-1.39870483497943,50.9362228636828,0
+							-1.39868282625497,50.9362509990863,0 
+							-1.39866009887828,50.936279983629,0
+							-1.3986519242092,50.9362903999447,0 
+							-1.39865102589391,50.9362915887632,0
+							-1.39860332535233,50.9363526713483,0
+							-1.39872289111664,50.93638986431949,0
+							-1.39873358106852,50.93639320432609,0
+							-1.39875648810827,50.9364002806105,0
+							-1.39877005266906,50.93640480943199,0
+							-1.39888422854167,50.9364399643936,0 
+							-1.3989298629581,50.9363821653203,0
+							-1.39898340254904,50.93631440275011,0
+							-1.39898762463087,50.9363089681538,0
+							-1.39899948239262,50.9362935701272,0
+							-1.39900936386075,50.9362813988895,0
+							-1.39901089099673,50.9362793609145,0 
+							-1.39904960838548,50.936230279656,0
+							-1.39907979177902,50.9361920109571,0
+							-1.39879691229605,50.9361051703314,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

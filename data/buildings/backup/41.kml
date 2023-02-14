@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>Early Years Centre</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39527,50.93361,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Early Years Centre</name><description>Profiles child care from birth to school age for staff and students.</description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39534,50.93358,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/Education/daycare.png</href></Icon></IconStyle></Style><Placemark><name>Early Years Centre (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39548635097949,50.9334661909265,0.000000
+-1.39545284381939,50.9335228047348,0.000000
+-1.3954380216172,50.9335186153153,0.000000
+-1.39525835856038,50.9337644883074,0.000000
+-1.39510941788627,50.9337240096518,0.000000
+-1.39513124694767,50.9336951933567,0.000000
+-1.39515100988393,50.9336689812692,0.000000
+-1.39512962998016,50.9336647918629,0.000000
+-1.39514705729668,50.9336385797582,0.000000
+-1.39516852703197,50.9336427691669,0.000000
+-1.3952154190898,50.9335768708574,0.000000
+-1.39517517456507,50.9335624909733,0.000000
+-1.39521811403565,50.9335117650476,0.000000
+-1.3952543161416,50.9335237105552,0.000000
+-1.39526904851226,50.9334990835575,0.000000
+-1.39524488383112,50.9334931957216,0.000000
+-1.39530794556406,50.9334122945169,0.000000
+-1.39548635097949,50.9334661909265,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39545,50.93353,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Converted from RDF Document</name>
+	<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+	<Style id="stylep1">
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>66fc3135</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="2A7FE7E6E1277ADCB2C6">
+		<name>Tizard (Polygon)</name>
+		<styleUrl>#stylep1</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-1.39410519123015,50.9356838155014,0 -1.3939029804597,50.93562567582109,0 -1.39386183761969,50.9356137874646,0 -1.3938561782334,50.9356122023502,0 -1.39373769044742,50.9355780091545,0 -1.39370400362427,50.9355684984598,0 -1.39359333118126,50.9355366829075,0 -1.39329131758274,50.9354500108923,0 -1.39318953846105,50.9355906900777,0 -1.39410680819767,50.93585421473031,0 -1.39420858731936,50.935713479731,0 -1.39410519123015,50.9356838155014,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

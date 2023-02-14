@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>35 / 2057</name><description></description><styleUrl>#style8</styleUrl><Point><coordinates>-1.3949,50.934,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>35 / 2057 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39492,50.93403,0.000000
+-1.39484387588829,50.9340129642058,0.000000
+-1.39489148659834,50.9339551055027,0.000000
+-1.394961915,50.933976053,0.000000
+-1.39492,50.93403,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>David Kiddle</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.3945,50.93383,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>David Kiddle (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39511408912575,50.9340949966272,0.000000
+-1.39506593942652,50.9341621963014,0.000000
+-1.39469170127916,50.9340489135594,0.000000
+-1.39470778112274,50.9340227016712,0.000000
+-1.39462612426341,50.9339971125135,0.000000
+-1.39460519351729,50.9339906019954,0.000000
+-1.39459980362559,50.9339949045988,0.000000
+-1.39458013052087,50.9339892998917,0.000000
+-1.3945704287158,50.9339864126181,0.000000
+-1.39456009809003,50.9339830158254,0.000000
+-1.39428835771659,50.9339033609656,0.000000
+-1.39425718617623,50.933894302835,0.000000
+-1.39427658978636,50.9338654866454,0.000000
+-1.39423041638076,50.9338498613563,0.000000
+-1.39424640639282,50.9338271027737,0.000000
+-1.39422772143491,50.9338199128709,0.000000
+-1.39440873196466,50.9335806639757,0.000000
+-1.39440271325225,50.9335781729727,0.000000
+-1.39444753918493,50.933519974046,0.000000
+-1.39458578990716,50.933560905789,0.000000
+-1.39453952667003,50.9336183120732,0.000000
+-1.39461992588795,50.9336419765761,0.000000
+-1.39462666325259,50.9336551109361,0.000000
+-1.39462531577966,50.9336651881581,0.000000
+-1.39461588346918,50.9336736801974,0.000000
+-1.39460321722367,50.9336761711953,0.000000
+-1.39458309496131,50.9336740764925,0.000000
+-1.3945113195701,50.9336517141192,0.000000
+-1.39448993966634,50.933678265898,0.000000
+-1.39466807558718,50.9337344831535,0.000000
+-1.39481980103867,50.9337822649366,0.000000
+-1.39477623274739,50.9338392746539,0.000000
+-1.39479635500976,50.9338443698586,0.000000
+-1.39470778112274,50.9339618990919,0.000000
+-1.39469035380623,50.9339585022975,0.000000
+-1.39467364514194,50.9339817703347,0.000000
+-1.39462333948603,50.9339677868685,0.000000
+-1.39461525464848,50.9339774677302,0.000000
+-1.39471918972685,50.934007076435,0.000000
+-1.39473859333699,50.9339834121179,0.000000
+-1.39484387588829,50.9340129642058,0.000000
+-1.39489148659834,50.9339551055027,0.000000
+-1.39503234243489,50.9339969992871,0.000000
+-1.39498670801846,50.9340570092368,0.000000
+-1.39511408912575,50.9340949966272,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Digital Learning Entrance</name><description></description><styleUrl>#style17</styleUrl><Point><coordinates>-1.39428,50.9339,0.000000</coordinates></Point></Placemark><Style id='style17'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre</name><description>Common Learning Space</description><styleUrl>#style4</styleUrl><Point><coordinates>-1.394692101,50.93388633,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre</name><description>Common Learning Space</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.394543395,50.9338573,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.394796355,50.9338443699,0.000000
+-1.3947077811,50.9339618991,0.000000
+-1.3946903538,50.9339585023,0.000000
+-1.394588395,50.9339295163,0.000000
+-1.3946779571,50.9338083637,0.000000
+-1.3947762327,50.9338392747,0.000000
+-1.394796355,50.9338443699,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep3</styleUrl></Placemark><Style id='stylep3'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3946368142,50.9338329906,0.000000
+-1.394573483,50.9339167783,0.000000
+-1.3944512223,50.9338834897,0.000000
+-1.3945123077,50.9337969844,0.000000
+-1.3946368142,50.9338329906,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Main</name><description></description><styleUrl>#style11</styleUrl><Point><coordinates>-1.39458,50.93398,0.000000</coordinates></Point></Placemark><Style id='style11'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Maintenance (Unlocked)</name><description></description><styleUrl>#style13</styleUrl><Point><coordinates>-1.39468,50.93373,0.000000</coordinates></Point></Placemark><Style id='style13'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Post Room and Goods Inwards</name><description></description><styleUrl>#style16</styleUrl><Point><coordinates>-1.39432,50.93368,0.000000</coordinates></Point></Placemark><Style id='style16'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Shower</name><description></description><styleUrl>#style9</styleUrl><Point><coordinates>-1.3945,50.93383,0.000000</coordinates></Point></Placemark><Style id='style9'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>Shower (staff only)</name><description></description><styleUrl>#style10</styleUrl><Point><coordinates>-1.3945,50.93383,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>https://data.southampton.ac.uk/map-icons/shower.png</href></Icon></IconStyle></Style><Placemark><name>Staff</name><description></description><styleUrl>#style12</styleUrl><Point><coordinates>-1.39505,50.93407,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Stairwell</name><description></description><styleUrl>#style15</styleUrl><Point><coordinates>-1.39458,50.93362,0.000000</coordinates></Point></Placemark><Style id='style15'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>iSolutions Rear Entrance</name><description></description><styleUrl>#style14</styleUrl><Point><coordinates>-1.39447,50.93353,0.000000</coordinates></Point></Placemark><Style id='style14'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style></Document></kml>

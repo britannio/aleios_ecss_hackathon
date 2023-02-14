@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Converted from RDF Document</name><description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description><Placemark><name>54 / 3001</name><description></description><styleUrl>#style18</styleUrl><Point><coordinates>-1.398773835,50.9362345,0.000000</coordinates></Point></Placemark><Style id='style18'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3001 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3987969123,50.9362282983,0.000000
+-1.3987886478,50.9362389977,0.000000
+-1.3987802036,50.9362498103,0.000000
+-1.3987507389,50.936240696,0.000000
+-1.3987674476,50.936219184,0.000000
+-1.3987969123,50.9362282983,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep17</styleUrl></Placemark><Style id='stylep17'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3007</name><description></description><styleUrl>#style20</styleUrl><Point><coordinates>-1.398825124,50.93619058,0.000000</coordinates></Point></Placemark><Style id='style20'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3007 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3988623096,50.9361761034,0.000000
+-1.398836528,50.9362092772,0.000000
+-1.3988163159,50.9362031066,0.000000
+-1.398810926,50.9362100697,0.000000
+-1.398804548,50.9362183915,0.000000
+-1.398786402,50.9362129002,0.000000
+-1.3988240414,50.9361642718,0.000000
+-1.3988623096,50.9361761034,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep19</styleUrl></Placemark><Style id='stylep19'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3009</name><description></description><styleUrl>#style16</styleUrl><Point><coordinates>-1.398919697,50.93621362,0.000000</coordinates></Point></Placemark><Style id='style16'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3009 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990030757,50.9362157874,0.000000
+-1.3989746889,50.9362517916,0.000000
+-1.3989397444,50.9362410923,0.000000
+-1.3989150408,50.9362335065,0.000000
+-1.3988920439,50.9362275057,0.000000
+-1.3988712928,50.9362211088,0.000000
+-1.3988657232,50.9362192972,0.000000
+-1.3988597944,50.9362174857,0.000000
+-1.398836528,50.9362092772,0.000000
+-1.3988623096,50.9361761034,0.000000
+-1.3990030757,50.9362157874,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep15</styleUrl></Placemark><Style id='stylep15'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3013</name><description></description><styleUrl>#style22</styleUrl><Point><coordinates>-1.398951363,50.93625414,0.000000</coordinates></Point></Placemark><Style id='style22'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3013 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3989746889,50.9362517916,0.000000
+-1.3989631905,50.9362671897,0.000000
+-1.3989544768,50.9362645856,0.000000
+-1.3989278867,50.9362563771,0.000000
+-1.3989397444,50.9362410923,0.000000
+-1.3989746889,50.9362517916,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep21</styleUrl></Placemark><Style id='stylep21'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3015</name><description></description><styleUrl>#style24</styleUrl><Point><coordinates>-1.399010305,50.93624648,0.000000</coordinates></Point></Placemark><Style id='style24'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3015 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990496084,50.9362302797,0.000000
+-1.399010891,50.9362793609,0.000000
+-1.3990093639,50.9362813989,0.000000
+-1.3989835822,50.9362734734,0.000000
+-1.3989900501,50.9362648686,0.000000
+-1.3989952603,50.9362579056,0.000000
+-1.3989746889,50.9362517916,0.000000
+-1.3990030757,50.9362157874,0.000000
+-1.3990496084,50.9362302797,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep23</styleUrl></Placemark><Style id='stylep23'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3017</name><description></description><styleUrl>#style26</styleUrl><Point><coordinates>-1.398983896,50.93629382,0.000000</coordinates></Point></Placemark><Style id='style26'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3017 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990093639,50.9362813989,0.000000
+-1.3989876246,50.9363089682,0.000000
+-1.3989834025,50.9363144028,0.000000
+-1.398958609,50.9363063075,0.000000
+-1.3989622921,50.9363018919,0.000000
+-1.3989675922,50.9362948156,0.000000
+-1.398977833,50.9362811724,0.000000
+-1.3989835822,50.9362734734,0.000000
+-1.3990093639,50.9362813989,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep25</styleUrl></Placemark><Style id='stylep25'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 3701</name><description></description><styleUrl>#style28</styleUrl><Point><coordinates>-1.398881802,50.93625818,0.000000</coordinates></Point></Placemark><Style id='style28'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 3701 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3989952603,50.9362579056,0.000000
+-1.3989900501,50.9362648686,0.000000
+-1.3989835822,50.9362734734,0.000000
+-1.398977833,50.9362811724,0.000000
+-1.3989675922,50.9362948156,0.000000
+-1.3989622921,50.9363018919,0.000000
+-1.3989203408,50.9362901169,0.000000
+-1.3989072254,50.9362863806,0.000000
+-1.3989049796,50.9362900037,0.000000
+-1.3988685979,50.9362798138,0.000000
+-1.3988323059,50.9362695107,0.000000
+-1.398834911,50.9362661141,0.000000
+-1.3988250296,50.9362631137,0.000000
+-1.3987802036,50.9362498103,0.000000
+-1.3987886478,50.9362389977,0.000000
+-1.3987969123,50.9362282983,0.000000
+-1.398804548,50.9362183915,0.000000
+-1.398810926,50.9362100697,0.000000
+-1.3988163159,50.9362031066,0.000000
+-1.398836528,50.9362092772,0.000000
+-1.3988247601,50.9362246752,0.000000
+-1.3988482959,50.9362318647,0.000000
+-1.3988597944,50.9362174857,0.000000
+-1.3988657232,50.9362192972,0.000000
+-1.3988712928,50.9362211088,0.000000
+-1.3988602435,50.936235601,0.000000
+-1.3988808149,50.9362418848,0.000000
+-1.398903183,50.9362487913,0.000000
+-1.3989278867,50.9362563771,0.000000
+-1.3989544768,50.9362645856,0.000000
+-1.3989631905,50.9362671897,0.000000
+-1.3989746889,50.9362517916,0.000000
+-1.3989952603,50.9362579056,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep27</styleUrl></Placemark><Style id='stylep27'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 4001</name><description></description><styleUrl>#style30</styleUrl><Point><coordinates>-1.398903412,50.93619141,0.000000</coordinates></Point></Placemark><Style id='style30'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 4001 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3990797918,50.936192011,0.000000
+-1.3990496084,50.9362302797,0.000000
+-1.399010891,50.9362793609,0.000000
+-1.3990093639,50.9362813989,0.000000
+-1.3989835822,50.9362734734,0.000000
+-1.398967682,50.9362686049,0.000000
+-1.3989631905,50.9362671897,0.000000
+-1.3989544768,50.9362645856,0.000000
+-1.3989278867,50.9362563771,0.000000
+-1.3989397444,50.9362410923,0.000000
+-1.3989150408,50.9362335065,0.000000
+-1.3988920439,50.9362275057,0.000000
+-1.3988712928,50.9362211088,0.000000
+-1.3988602435,50.936235601,0.000000
+-1.3988482959,50.9362318647,0.000000
+-1.3988247601,50.9362246752,0.000000
+-1.398804548,50.9362183915,0.000000
+-1.398786402,50.9362129002,0.000000
+-1.3987823596,50.9362115982,0.000000
+-1.3987269335,50.936194615,0.000000
+-1.3987505592,50.9361644982,0.000000
+-1.3987969123,50.9361051703,0.000000
+-1.3990797918,50.936192011,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep29</styleUrl></Placemark><Style id='stylep29'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>54 / 4012</name><description></description><styleUrl>#style32</styleUrl><Point><coordinates>-1.398862842,50.93628739,0.000000</coordinates></Point></Placemark><Style id='style32'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>54 / 4012 (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3989072254,50.9362863806,0.000000
+-1.3988913252,50.9363087983,0.000000
+-1.3988179329,50.9362881921,0.000000
+-1.398834911,50.9362661141,0.000000
+-1.3988659927,50.9362747755,0.000000
+-1.3989072254,50.9362863806,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep31</styleUrl></Placemark><Style id='stylep31'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Car park entrance</name><description></description><styleUrl>#style3</styleUrl><Point><coordinates>-1.39899,50.9363,0.000000</coordinates></Point></Placemark><Style id='style3'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room 5A</name><description>Common Learning Space</description><styleUrl>#style10</styleUrl><Point><coordinates>-1.398701903,50.93634402,0.000000</coordinates></Point></Placemark><Style id='style10'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room 5A (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3987994276,50.9363331974,0.000000
+-1.398751188,50.9363988087,0.000000
+-1.3986033254,50.9363526713,0.000000
+-1.3986510259,50.9362915888,0.000000
+-1.3986519242,50.9362903999,0.000000
+-1.3986636023,50.9362937966,0.000000
+-1.3987817308,50.9363281025,0.000000
+-1.3987994276,50.9363331974,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep9</styleUrl></Placemark><Style id='stylep9'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Room 5B</name><description>Common Learning Space</description><styleUrl>#style8</styleUrl><Point><coordinates>-1.398842788,50.9363866,0.000000</coordinates></Point></Placemark><Style id='style8'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Room 5B (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3989356122,50.936374806,0.000000
+-1.3988842285,50.9364399644,0.000000
+-1.398751188,50.9363988087,0.000000
+-1.3987994276,50.9363331974,0.000000
+-1.3988208973,50.9363397642,0.000000
+-1.3989235748,50.9363710697,0.000000
+-1.3989356122,50.936374806,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep7</styleUrl></Placemark><Style id='stylep7'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Lecture Theatre A</name><description>Common Learning Space: Lecture Theatre 4A</description><styleUrl>#style6</styleUrl><Point><coordinates>-1.398819539,50.93634326,0.000000</coordinates></Point></Placemark><Style id='style6'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Lecture Theatre A (Polygon)</name><description>Common Learning Space: Lecture Theatre 4A</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3989441462,50.9363236869,0.000000
+-1.3989375885,50.9363320652,0.000000
+-1.3989318393,50.9363397076,0.000000
+-1.3988738979,50.9364152823,0.000000
+-1.3987473253,50.9363766741,0.000000
+-1.3986951332,50.9363607666,0.000000
+-1.3987625967,50.9362726809,0.000000
+-1.398810387,50.9362860976,0.000000
+-1.3988179329,50.9362881921,0.000000
+-1.3988913252,50.9363087983,0.000000
+-1.3989348935,50.9363210828,0.000000
+-1.3989441462,50.9363236869,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep5</styleUrl></Placemark><Style id='stylep5'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Level 4 Entrance</name><description></description><styleUrl>#style4</styleUrl><Point><coordinates>-1.39871,50.93605,0.000000</coordinates></Point></Placemark><Style id='style4'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Mathematics</name><description></description><styleUrl>#style2</styleUrl><Point><coordinates>-1.39884,50.93628,0.000000</coordinates></Point></Placemark><Style id='style2'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Mathematics (Polygon)</name><description></description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.39907979177902,50.9361920109571,0.000000
+-1.39904960838548,50.936230279656,0.000000
+-1.39901089099673,50.9362793609145,0.000000
+-1.39900936386075,50.9362813988895,0.000000
+-1.39899948239262,50.9362935701272,0.000000
+-1.39898762463087,50.9363089681538,0.000000
+-1.39898340254904,50.9363144027501,0.000000
+-1.3989298629581,50.9363821653203,0.000000
+-1.39888422854167,50.9364399643936,0.000000
+-1.39877005266906,50.936404809432,0.000000
+-1.39875648810827,50.9364002806105,0.000000
+-1.39873358106852,50.9363932043261,0.000000
+-1.39872289111664,50.9363898643195,0.000000
+-1.39860332535233,50.9363526713483,0.000000
+-1.39865102589391,50.9362915887632,0.000000
+-1.3986519242092,50.9362903999447,0.000000
+-1.39866009887828,50.936279983629,0.000000
+-1.39868282625497,50.9362509990863,0.000000
+-1.39870483497943,50.9362228636828,0.000000
+-1.39872693353542,50.9361946150412,0.000000
+-1.39875055922739,50.936164498234,0.000000
+-1.39879691229605,50.9361051703314,0.000000
+-1.39907979177902,50.9361920109571,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep1</styleUrl></Placemark><Style id='stylep1'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room 7B</name><description>Common Learning Space</description><styleUrl>#style14</styleUrl><Point><coordinates>-1.398686885,50.93634112,0.000000</coordinates></Point></Placemark><Style id='style14'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room 7B (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.3987711306,50.9363309896,0.000000
+-1.3987228911,50.9363898643,0.000000
+-1.3986033254,50.9363526713,0.000000
+-1.3986510259,50.9362915888,0.000000
+-1.3987711306,50.9363309896,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep13</styleUrl></Placemark><Style id='stylep13'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style><Placemark><name>Seminar Room 7C</name><description>Common Learning Space</description><styleUrl>#style12</styleUrl><Point><coordinates>-1.398849871,50.93639296,0.000000</coordinates></Point></Placemark><Style id='style12'><IconStyle><Icon><href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle></Style><Placemark><name>Seminar Room 7C (Polygon)</name><description>Common Learning Space</description><Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>-1.398929863,50.9363821653,0.000000
+-1.3988842285,50.9364399644,0.000000
+-1.3987700527,50.9364048094,0.000000
+-1.3988162261,50.936345312,0.000000
+-1.398929863,50.9363821653,0.000000
+</coordinates></LinearRing></outerBoundaryIs></Polygon><styleUrl>#stylep11</styleUrl></Placemark><Style id='stylep11'><LineStyle><color>ff000000</color></LineStyle><PolyStyle><color>66fc3135</color></PolyStyle></Style></Document></kml>

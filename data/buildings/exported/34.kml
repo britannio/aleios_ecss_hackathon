@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+	xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Converted from RDF Document</name>
+		<description>Converted to KML using Graphite (http://graphite.ecs.soton.ac.uk/)</description>
+		<Style id="stylep1">
+			<LineStyle>
+				<color>ff000000</color>
+			</LineStyle>
+			<PolyStyle>
+				<color>66fc3135</color>
+			</PolyStyle>
+		</Style>
+		<Placemark id="05E001D4E7277AE24A59">
+			<name>Education (Polygon)</name>
+			<styleUrl>#stylep1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-1.3954538319662,50.9344095944337,0
+							-1.39542912829589,50.93444271284811,0
+							-1.39534369851237,50.9344174069849,0
+							-1.39513340290436,50.9343549065388,0
+							-1.39512262312095,50.93436928617789,0
+							-1.39503270176101,50.9344894748769,0 
+							-1.39502578473332,50.934496268388,0
+							-1.3949877859968,50.9345495974161,0 
+							-1.39528180458929,50.934637290133,0
+							-1.39543110458951,50.93468071183669,0
+							-1.39546344393974,50.934636610784,0
+							-1.39552470904212,50.93455276771729,0
+							-1.39560025735751,50.9344530729627,0 
+							-1.3954538319662,50.9344095944337,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
